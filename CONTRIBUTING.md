@@ -1,4 +1,4 @@
-## Codi de conducta
+## Guia per a participar i contribuir 
 
 - Pots penjar qualsevol  tipus de recurs sempre i quan creguis que podrà ser d'ajuda per a l'estudiant (no pengis coses que estan malament).
 
