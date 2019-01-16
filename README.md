@@ -73,3 +73,6 @@ Si voleu participar amb un recurs simplement podeu fer pull-request, si voleu pa
     - XC2
 
 - Optatives
+
+## Calcular notes 
+Si necessites calcular la teva nota o vols saber el que et queda per aprovar en tot moment :arrow_right: [GradeCalc](https://gradecalc.net/)
