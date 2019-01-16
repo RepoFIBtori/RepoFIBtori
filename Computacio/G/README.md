@@ -6,3 +6,7 @@
 ## FINALS
 
 - [FINALS RESOLTS](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Computacio/G/FinalsResolts)
+
+## TEORIA
+
+- []()
