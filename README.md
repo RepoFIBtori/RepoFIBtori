@@ -1,97 +1,31 @@
 # RepoFIBtori: Apunts de la FIB
 [![HitCount](http://hits.dwyl.io/RepoFIBtori/RepoFIBtori.svg)](http://hits.dwyl.io/RepoFIBtori/RepoFIBtori) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/RepoFIBtori/RepoFIBtori) [![GitHub Starts](https://img.shields.io/github/stars/RepoFIBtori/RepoFIBtori.svg?style=social&label=Star&maxAge=2592000)](https://github.com/RepoFIBtori/RepoFIBtori/stargazers) [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/RepoFIBtori/RepoFIBtori.svg)](https://github.com/RepoFIBtori/RepoFIBtori)
 
+Benvingut a la llibreria d'apunts d'estudiants amateur del grau d'Enginyeria Informàtica de la FIB. 🧐 Aquí trobaràs una quantitat indecent de: `apunts`, `pràctiques`, `exàmens`, `exercicis` i `enllaços a repositoris/pàgines`. 
 
-Benvinguts a la llibreria de ~~Babel~~ la FIB.  Aquí trobaràs **tots** els apunts, pràctiques,  exàmens, links a altres repositoris/pàgines de qualitat del grau d'Enginyeria Informàtica de la FIB. 
+## Contribuir
+Volem que participis! Quants més estudiants ens involucrem més ens en beneficiarem! 
+Per participar, només cal fer un pull-request amb el que vulguis compartir. Si tens pensat en ser més actiu uneixte a l'organització, acceptem a tothom 
 
-Si voleu participar amb un recurs simplement podeu fer pull-request, si voleu participar bastant i afegir de tot demaneu per entrar en a la organització i us hi posarem encantats. OPEN TO EVERYBODY
+Si et decideixes a contribuir, llegeix aquesta guia 📖[CONTRIBUTING.md](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/CONTRIBUTING.md) plis. 😇
 
-- Obligatòries
+## Assignatures
+### Obligatòries
+  - **Q1**: [PRO1](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q1/PRO1) -  [IC](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q1/IC) -  [FM](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q1/FM) -  [F](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q1/F)
+  - **Q2**: [PRO2](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q2/PRO2) - [EC](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q2/EC) - [M1](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q2/M1) - [M2](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q2/M2)
+  - **Q3**: [EDA](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q3/EDA) - [CI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q3/CI) - [BD](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q3/BD) - [PE](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q3/PE) - [SO](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q3/SO)
+  - **Q4**: [EEE](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q4/EEE) - [XC](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q4/XC) - [IDI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q4/IDI) - [AC](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q4/AC) - [IES](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q4/IES)
+  - **Q5 i Q6**: [PAR](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q5/PAR) - [PROP](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q5/PROP)
 
-  - Quadrimestre 1
-    - PRO1
-    - IC
-    - FM
-    - F
-  - Quadrimestre 2
-    - [PRO2](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Quadrimestre2/PRO2)
-    - [EC](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Quadrimestre2/EC)
-    - M1
-    - M2
-  - Quadrimestre 3
-    - [EDA](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Quadrimestre3/EDA)
-    - CI
-    - BD
-    - PE
-    - [SO](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Quadrimestre3/SO)
-  - Quadrimestre 4
-    - EEE
-    - [XC](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Quadrimestre4/XC)
-    - [IDI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Quadrimestre4/IDI)
-    - AC
-    - IES
-  - Quadrimestre 5/6
-    - [PAR](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Quadrimestre5/PAR)
-    - [PROP](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Quadrimestre5/PROP)
+### Especialitat
+- **Computació**: [IA](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Computacio/Q4/IA) - [A](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Computacio/A) - [TC](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Computacio/TC) - [G](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Computacio/G) - [LP](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Computacio/LP) - [LI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Computacio/LI)
+- **Software**: [PES](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Software/PES) - [GPS](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Software/GPS) - [AS](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Software/AS) - [ASW](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Software/ASW) - [DBD](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Software/DBD) - [ER](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Software/ER) - [CBDE](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Software/CBDE) - [ECSDI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Software/ECSDI)
+- **Tecnologies de la Informació**: [SI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/TI/SI) - [ASO](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/TI/ASO) - [PI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/TI/PI) - [PTI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/TI/PTI) - [SOA](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/TI/SOA) - [TXC](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/TI/TXC)
+- **Sistemes de la Informació**: [NE](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/SI/NE) - [ADEI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/SI/ADEI) - [DSI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/SI/DSI) - [ER](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/SI/ER) - [PSI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/SI/PSI) - [SIO](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/SI/SIO)
+- **Hardware**: [AC2](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Hardware/AC2) - [DBSM](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Hardware/DBSM) - [MP](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Hardware/MP) - [PEC](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Hardware/PEC) - [SO2](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Hardware/SO2) - [XC2](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Hardware/XC2)
 
-
-- Especialitat
-
-  - Computació
-    - IA
-    - [A](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Computacio/A)
-    - [TC](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Computacio/TC)
-    - [G](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Computacio/G)
-    - [LP](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Computacio/LP)
-    - LI
-  - Software
-    - PES
-      - [Exemple de projecte 1](https://github.com/BlunchDev/blunch_android)
-    - GPS
-      - [Primera part](https://github.com/AlbertSuarez/GPS-Unified-Process)
-      - [Segona part](https://github.com/AlbertSuarez/GPS-Agile-Development)
-    - AS
-      - [Projecte final](https://github.com/AlbertSuarez/ShowsCom-AS)
-    - ASW
-      - [Laboratori 1](https://github.com/AlbertSuarez/ASW-Lab1)
-      - [Laboratori 2](https://github.com/AlbertSuarez/ASW-Lab2)
-      - [Laboratori 3](https://github.com/AlbertSuarez/ASW-Lab3)
-      - [Laboratori 4](https://github.com/AlbertSuarez/ASW-Lab4)
-      - [Laboratori 5](https://github.com/AlbertSuarez/ASW-Lab5)
-      - [Projecte Ruby on Rails](https://github.com/AlbertSuarez/Practica-ASW)
-      - [Projecte AngularJS](https://github.com/victorpm5/HackerNew-Angular)
-    - DBD
-    - [ER](https://github.com/AlbertSuarez/ER-USE)
-    - CBDE
-      - [Laboratori de MapReduce](https://github.com/AlbertSuarez/neo4j-cbde)
-      - [Laboratori de MongoDB](https://github.com/Hanekoma/mongocbde)
-      - [Laboratori de Neo4J](https://github.com/AlbertSuarez/neo4j-cbde)
-    - ECSDI
-      - [Projecte teòric](https://github.com/AlbertSuarez/Practica-ECSDI)
-      - [Projecte pràctic](https://github.com/casassg/ecsdi-amazon)
-  - Tecnologies de la Informació
-    - SI
-    - ASO
-    - PI
-    - PTI
-    - SOA
-    - TXC
-  - Sistemes de la Informació
-    - NE
-    - ADEI
-    - DSI
-    - ER
-    - PSI
-    - SIO
-  - Hardware
-    - AC2
-    - DBSM
-    - MP
-    - PEC
-    - SO2
-    - XC2
-
-- Optatives
+### Optatives
+[TGA](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Optatives/TGA) - [VJ](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Optatives/VJ) - etc.
 
 ## Calcular notes 
-Si necessites calcular la teva nota o vols saber el que et queda per aprovar en tot moment :arrow_right: [GradeCalc](https://gradecalc.net/)
+Si necessites calcular la teva nota o vols saber el que et queda per aprovar et recomanem aquesta web app feta per estudiants de la FIB: 💯 [GradeCalc](https://gradecalc.net/)
