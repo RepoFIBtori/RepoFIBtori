@@ -2,7 +2,7 @@
 [![HitCount](http://hits.dwyl.io/RepoFIBtori/RepoFIBtori.svg)](http://hits.dwyl.io/RepoFIBtori/RepoFIBtori) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/RepoFIBtori/RepoFIBtori) [![GitHub Starts](https://img.shields.io/github/stars/RepoFIBtori/RepoFIBtori.svg?style=social&label=Star&maxAge=2592000)](https://github.com/RepoFIBtori/RepoFIBtori/stargazers) [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/RepoFIBtori/RepoFIBtori.svg)](https://github.com/RepoFIBtori/RepoFIBtori)
 
 
-Benvinguts a la llibreria de ~~Babel~~ la FIB.  Aquí trobaràs **tots** els apunts, pràctiques,  exàmens, links a altres repositoris /pàgines de qualitat del grau d'Enginyeria Informàtica de la FIB. 
+Benvinguts a la llibreria de ~~Babel~~ la FIB.  Aquí trobaràs **tots** els apunts, pràctiques,  exàmens, links a altres repositoris/pàgines de qualitat del grau d'Enginyeria Informàtica de la FIB. 
 
 Si voleu participar amb un recurs simplement podeu fer pull-request, si voleu participar bastant i afegir de tot demaneu per entrar en a la organització i us hi posarem encantats. OPEN TO EVERYBODY
 
