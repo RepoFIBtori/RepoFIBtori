@@ -14,12 +14,12 @@ Si voleu participar amb un recurs simplement podeu fer pull-request, si voleu pa
     - FM
     - F
   - Quadrimestre 2
-    - [PRO2]()
+    - [PRO2](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Quadrimestre2/PRO2)
     - [EC](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Quadrimestre2/EC)
     - M1
     - M2
   - Quadrimestre 3
-    - [EDA]()
+    - [EDA](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Quadrimestre3/EDA)
     - CI
     - BD
     - PE
@@ -31,7 +31,7 @@ Si voleu participar amb un recurs simplement podeu fer pull-request, si voleu pa
     - AC
     - IES
   - Quadrimestre 5/6
-    - [PAR]()
+    - [PAR](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Quadrimestre5/PAR)
     - [PROP](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Quadrimestre5/PROP)
 
 
