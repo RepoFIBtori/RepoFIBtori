@@ -6,5 +6,5 @@
 - **Nil Vilas** - [GitHub](https://github.com/NIL6NIL6)
 - **Maurici Abad** - [GitHub](https://github.com/mauriciabad) [Portfolio](https://www.mauriciabad.com)
 
-Mira també el [registre contribucións](https://github.com/RepoFIBtori/RepoFIBtori/graphs/contributors) per coneixer tots el sparticipants.
+Mira també el [registre contribucions](https://github.com/RepoFIBtori/RepoFIBtori/graphs/contributors) per a conèixer a tots els participants.
 
