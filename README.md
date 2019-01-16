@@ -15,24 +15,30 @@ Si voleu participar amb un recurs simplement podeu fer pull-request, si voleu pa
     - F
   - Quadrimestre 2
     - PRO2
+      - [Exemple de pràctica 1](https://github.com/AlbertSuarez/PRO2-Practice)
     - [EC](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Quadrimestre2/EC)
     - M1
     - M2
   - Quadrimestre 3
     - EDA
+      - [Problemes del Jutge](https://github.com/AlbertSuarez/Jutge-EDA)
     - CI
     - BD
     - PE
-    - SO
+    - [SO](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Quadrimestre3/SO)
   - Quadrimestre 4
     - EEE
     - [XC](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Quadrimestre4/XC)
     - [IDI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Quadrimestre4/IDI)
+      - [Laboratoris OpenGL/Qt](https://github.com/AlbertSuarez/IDI-Labs)
+      - [Exemple de aplicació Android](https://github.com/AlbertSuarez/Remindit)
     - AC
     - IES
   - Quadrimestre 5/6
     - PAR
+      - [Laboratoris](https://github.com/AlbertSuarez/ShowsCom-AS)
     - [PROP](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Quadrimestre5/PROP)
+      - [Exemple de projecte 1](https://github.com/AlbertSuarez/Wikipedia-PROP)
 
 - Especialitat
 
@@ -45,11 +51,29 @@ Si voleu participar amb un recurs simplement podeu fer pull-request, si voleu pa
     - LI
   - Software
     - PES
+      - [Exemple de projecte 1](https://github.com/BlunchDev/blunch_android)
     - GPS
+      - [Primera part](https://github.com/AlbertSuarez/GPS-Unified-Process)
+      - [Segona part](https://github.com/AlbertSuarez/GPS-Agile-Development)
     - AS
+      - [Projecte final](https://github.com/AlbertSuarez/ShowsCom-AS)
     - ASW
+      - [Laboratori 1](https://github.com/AlbertSuarez/ASW-Lab1)
+      - [Laboratori 2](https://github.com/AlbertSuarez/ASW-Lab2)
+      - [Laboratori 3](https://github.com/AlbertSuarez/ASW-Lab3)
+      - [Laboratori 4](https://github.com/AlbertSuarez/ASW-Lab4)
+      - [Laboratori 5](https://github.com/AlbertSuarez/ASW-Lab5)
+      - [Projecte Ruby on Rails](https://github.com/AlbertSuarez/Practica-ASW)
+      - [Projecte AngularJS](https://github.com/victorpm5/HackerNew-Angular)
     - DBD
-    - ER
+    - [ER](https://github.com/AlbertSuarez/ER-USE)
+    - CBDE
+      - [Laboratori de MapReduce](https://github.com/AlbertSuarez/neo4j-cbde)
+      - [Laboratori de MongoDB](https://github.com/Hanekoma/mongocbde)
+      - [Laboratori de Neo4J](https://github.com/AlbertSuarez/neo4j-cbde)
+    - ECSDI
+      - [Projecte teòric](https://github.com/AlbertSuarez/Practica-ECSDI)
+      - [Projecte pràctic](https://github.com/casassg/ecsdi-amazon)
   - Tecnologies de la Informació
     - SI
     - ASO
@@ -73,3 +97,6 @@ Si voleu participar amb un recurs simplement podeu fer pull-request, si voleu pa
     - XC2
 
 - Optatives
+
+## Calcular notes 
+Si necessites calcular la teva nota o vols saber el que et queda per aprovar en tot moment :arrow_right: [GradeCalc](https://gradecalc.net/)
