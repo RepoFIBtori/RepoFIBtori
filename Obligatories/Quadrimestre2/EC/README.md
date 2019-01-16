@@ -1,10 +1,10 @@
 # Apunts principi tema 6
 
 ![](./EC_files/Imagen.jpg)
-![](EC_files/Imagen [1].jpg)
-![](EC_files/Imagen [2].jpg)
-![](EC_files/Imagen [3].jpg)
-![](EC_files/Imagen [4].jpg)
+![](EC_files/Imagen[1].jpg)
+![](EC_files/Imagen[2].jpg)
+![](EC_files/Imagen[3].jpg)
+![](EC_files/Imagen[4].jpg)
 
 
 
@@ -16,9 +16,9 @@
 
 
 
-![](EC_files/Imagen [5].jpg)
-![](EC_files/Imagen [6].jpg)
-![](EC_files/Imagen [7].jpg)
+![](EC_files/Imagen[5].jpg)
+![](EC_files/Imagen[6].jpg)
+![](EC_files/Imagen[7].jpg)
 
 
 
@@ -30,8 +30,8 @@
 
 
 
-![](EC_files/Imagen [8].jpg)
-![](EC_files/Imagen [9].jpg)
+![](EC_files/Imagen[8].jpg)
+![](EC_files/Imagen[9].jpg)
 
 
 
@@ -43,8 +43,8 @@
 
 
 
-![](EC_files/Imagen [10].jpg)
-![](EC_files/Imagen [11].jpg)
+![](EC_files/Imagen[10].jpg)
+![](EC_files/Imagen[11].jpg)
 
 
 
@@ -56,7 +56,7 @@
 
 
 
-![](EC_files/Imagen [12].jpg)
+![](EC_files/Imagen[12].jpg)
 
 
 
@@ -68,8 +68,8 @@
 
 
 
-![](EC_files/Imagen [13].jpg)
-![](EC_files/Imagen [14].jpg)
+![](EC_files/Imagen[13].jpg)
+![](EC_files/Imagen[14].jpg)
 
 
 
@@ -81,8 +81,8 @@
 
 
 
-![](EC_files/Imagen [15].jpg)
-![](EC_files/Imagen [16].jpg)
+![](EC_files/Imagen[15].jpg)
+![](EC_files/Imagen[16].jpg)
 
 
 
@@ -94,8 +94,8 @@
 
 
 
-![](EC_files/Imagen [17].jpg)
-![](EC_files/Imagen [18].jpg)
+![](EC_files/Imagen[17].jpg)
+![](EC_files/Imagen[18].jpg)
 
 
 
@@ -107,7 +107,7 @@
 
 
 
-![](EC_files/Imagen [19].jpg)
+![](EC_files/Imagen[19].jpg)
 
 
 
@@ -121,8 +121,8 @@
 
 
 
-![](EC_files/Imagen [20].jpg)
-![](EC_files/Imagen [21].jpg)
+![](EC_files/Imagen[20].jpg)
+![](EC_files/Imagen[21].jpg)
 
 
 
@@ -134,5 +134,5 @@
 
 
 
-![](EC_files/Imagen [22].jpg)
-![](EC_files/Imagen [23].jpg)
+![](EC_files/Imagen[22].jpg)
+![](EC_files/Imagen[23].jpg)
