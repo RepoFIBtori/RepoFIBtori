@@ -138,8 +138,6 @@ Los controladores son clases propias de cada capa que tendrán la responsabilida
 
 # Examen
 
-**Buscar protective**
-
 ## Ejercicio 2
 Primera opción
 
