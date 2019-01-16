@@ -1,3 +1,3 @@
-## Laboratori
+## Laboratoris
 
-- [Laboratoris](https://github.com/AlbertSuarez/ShowsCom-AS)
+- [Albert Suàrez](https://github.com/AlbertSuarez/ShowsCom-AS)
