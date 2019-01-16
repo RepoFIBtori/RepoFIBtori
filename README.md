@@ -25,7 +25,7 @@ Si voleu participar amb un recurs simplement podeu fer pull-request, si voleu pa
     - SO
   - Quadrimestre 4
     - EEE
-    - XC
+    - [XC](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Quadrimestre4/XC)
     - [IDI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Quadrimestre4/IDI)
     - AC
     - IES
