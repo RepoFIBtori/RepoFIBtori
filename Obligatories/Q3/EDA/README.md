@@ -1,2 +1,2 @@
 ## JUTGE
-- [Problemes del jutge](https://github.com/AlbertSuarez/Jutge-EDA)
+- [Problemes del jutge - Albert Suàrez](https://github.com/AlbertSuarez/Jutge-EDA)
