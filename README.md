@@ -55,7 +55,7 @@ Si voleu participar amb un recurs simplement podeu fer pull-request, si voleu pa
     - PTI
     - SOA
     - TXC
-  - Sistemes de la informaciño
+  - Sistemes de la Informació
     - NE
     - ADEI
     - DSI
