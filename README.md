@@ -37,9 +37,9 @@ Si voleu participar amb un recurs simplement podeu fer pull-request, si voleu pa
 
   - Computació
     - IA
-    - A
+    - [A](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Computacio/A)
     - [TC](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Computacio/TC)
-    - G
+    - [G](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Computacio/G)
     - [LP](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Computacio/LP)
     - LI
   - Software
