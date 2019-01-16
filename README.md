@@ -14,14 +14,12 @@ Si voleu participar amb un recurs simplement podeu fer pull-request, si voleu pa
     - FM
     - F
   - Quadrimestre 2
-    - PRO2
-      - [Exemple de pràctica 1](https://github.com/AlbertSuarez/PRO2-Practice)
+    - [PRO2]()
     - [EC](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Quadrimestre2/EC)
     - M1
     - M2
   - Quadrimestre 3
-    - EDA
-      - [Problemes del Jutge](https://github.com/AlbertSuarez/Jutge-EDA)
+    - [EDA]()
     - CI
     - BD
     - PE
@@ -30,15 +28,12 @@ Si voleu participar amb un recurs simplement podeu fer pull-request, si voleu pa
     - EEE
     - [XC](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Quadrimestre4/XC)
     - [IDI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Quadrimestre4/IDI)
-      - [Laboratoris OpenGL/Qt](https://github.com/AlbertSuarez/IDI-Labs)
-      - [Exemple de aplicació Android](https://github.com/AlbertSuarez/Remindit)
     - AC
     - IES
   - Quadrimestre 5/6
-    - PAR
-      - [Laboratoris](https://github.com/AlbertSuarez/ShowsCom-AS)
+    - [PAR]()
     - [PROP](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Quadrimestre5/PROP)
-      - [Exemple de projecte 1](https://github.com/AlbertSuarez/Wikipedia-PROP)
+
 
 - Especialitat
 
