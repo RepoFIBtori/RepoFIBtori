@@ -1,4 +1,4 @@
-# ASW
+# ASW - Aplicacións i Serveis Web
 ## Laboratoris
 - [Laboratori 1 - Albert Suàrez](https://github.com/AlbertSuarez/ASW-Lab1)
 - [Laboratori 2 - Albert Suàrez](https://github.com/AlbertSuarez/ASW-Lab2)
