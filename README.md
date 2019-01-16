@@ -23,7 +23,7 @@ Si voleu participar amb un recurs simplement podeu fer pull-request, si voleu pa
     - CI
     - BD
     - PE
-    - SO
+    - [SO](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Quadrimestre3/SO)
   - Quadrimestre 4
     - EEE
     - [XC](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Quadrimestre4/XC)
