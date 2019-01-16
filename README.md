@@ -1,4 +1,5 @@
 # RepoFIBtori: Apunts de la FIB
+[![HitCount](http://hits.dwyl.io/RepoFIBtori/RepoFIBtori.svg)](http://hits.dwyl.io/RepoFIBtori/RepoFIBtori) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/RepoFIBtori/RepoFIBtori)
 
 Benvinguts a la llibreria de ~~Babel~~ la FIB.  Aquí trobaràs tots els apunts, pràctiques,  exàmens, links a altres repositoris /pàgines de qualitat del grau d'Enginyeria Informàtica de la FIB. 
 
@@ -55,7 +56,7 @@ Si voleu participar amb un recurs simplement podeu fer pull-request, si voleu pa
     - PTI
     - SOA
     - TXC
-  - Sistemes de la informaciño
+  - Sistemes de la Informació
     - NE
     - ADEI
     - DSI
