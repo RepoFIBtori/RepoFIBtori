@@ -31,7 +31,7 @@ Si voleu participar amb un recurs simplement podeu fer pull-request, si voleu pa
     - IES
   - Quadrimestre 5/6
     - PAR
-    - PROP
+    - [PROP](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Quadrimestre5/PROP)
 
 - Especialitat
 
