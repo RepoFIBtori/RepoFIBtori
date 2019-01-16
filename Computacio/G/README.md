@@ -8,4 +8,4 @@
 - [FINALS RESOLTS](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Computacio/G/FinalsResolts)
 
 ## TEORIA
-- [Apunts per al final](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Computacio/G/Teoria)
+- [Apunts pel final](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Computacio/G/Teoria)
