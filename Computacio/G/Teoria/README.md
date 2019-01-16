@@ -2,7 +2,7 @@
 
 ### Esquema 
 
-![Screenshot from 2018-12-12 16-31-30](./Screenshot from 2018-12-12 16-31-30.png)
+![Screenshot from 2018-12-12 16-31-30](./Screenshot%20from%202018-12-12%2016-31-30.png)
 
 ### Object Space 
 
@@ -17,7 +17,7 @@ Es situa cada instància d'un objecte en relació a l'escena, sol ser la identit
 
 **Matrius de transformació de Modelat**
 
-![Screenshot from 2018-12-12 16-30-26](./Screenshot from 2018-12-12 16-30-26.png)
+![Screenshot from 2018-12-12 16-30-26](./Screenshot%20from%202018-12-12%2016-30-26.png)
 
 ### World Space
 
