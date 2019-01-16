@@ -14,7 +14,7 @@ Si voleu participar amb un recurs simplement podeu fer pull-request, si voleu pa
     - F
   - Quadrimestre 2
     - PRO2
-    - EC
+    - [EC](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Quadrimestre2/EC)
     - M1
     - M2
   - Quadrimestre 3
