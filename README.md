@@ -3,7 +3,7 @@
 
 Benvinguts a la llibreria de ~~Babel~~ la FIB.  Aquí trobaràs tots els apunts, pràctiques,  exàmens, links a altres repositoris /pàgines de qualitat del grau d'Enginyeria Informàtica de la FIB. 
 
-Si voleu participar amb un recurs simplement podeu fer pull-request, si voleu participar bastant i afegir de tot demaneu per entrar en el team i us hi posarem encantats. OPEN TO EVERYBODY
+Si voleu participar amb un recurs simplement podeu fer pull-request, si voleu participar bastant i afegir de tot demaneu per entrar en a la organització i us hi posarem encantats. OPEN TO EVERYBODY
 
 - Obligatòries
 
@@ -31,7 +31,7 @@ Si voleu participar amb un recurs simplement podeu fer pull-request, si voleu pa
     - IES
   - Quadrimestre 5/6
     - PAR
-    - PROP
+    - [PROP](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Quadrimestre5/PROP)
 
 - Especialitat
 
