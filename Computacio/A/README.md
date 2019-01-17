@@ -13,3 +13,6 @@
 - [Exàmens resolts](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Computacio/A/Examens)
 ## Apunts
 - [MrRobb](https://github.com/MrRobb/A-FIB/tree/master/Apuntes)
+## Pràctiques
+# 2018-2019 Q1 
+- [Pràctica A](https://github.com/adriacabeza/Document-similarity-detection-using-hashing): Fet per Carlos Bergillos, Antoni Rambla i Adrià Cabeza
