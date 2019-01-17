@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="ca-ES">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css?family=Raleway:400,700,900" rel="stylesheet"> 
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <meta name="color-theme" content="#46A263">
+  <title>TFG4Society</title>
+</head>
+<body>
+  <header>TFG4Society</header>
+  <section id="section-expl" class="section-hidden">
+    <div class="search-bar"><input type="search" name="search" placeholder="Buscar"><i class="material-icons">filter_list</i><i class="material-icons">search</i></div>
+    <h2>Per carrera</h2>
+    <div class="explore-topics">
+      <div style="background-color: auto;"><i class="material-icons">public</i></div>
+      <div style="background-color: auto;"><i class="material-icons">bug_report</i></div>
+      <div style="background-color: auto;"><i class="material-icons">build</i></div>
+      <div style="background-color: auto;"><i class="material-icons">euro_symbol</i></div>
+      <div style="background-color: auto;"><i class="material-icons">gavel</i></div>
+      <div style="background-color: auto;"><i class="material-icons">home</i></div>
+      <div style="background-color: auto;"><i class="material-icons">translate</i></div>
+      <div style="background-color: auto;"><i class="material-icons">music_note</i></div>
+    </div>
+    <h2>Per organització</h2>
+    <div class="explore-org">
+      <div>UPC</div>
+      <div>UNICEF</div>
+      <div>Creu Roja</div>
+      <div>Greenpeace</div>
+      <div>Igualdad Animal</div>
+      <div>Médicos sin Fronteras</div>
+    </div>
+  </section>
+  <section id="section-admin" class="section-active">
+    <h2>Sol·licituds enviades</h2>
+    <div class="admin-send">
+      <div>
+        <i class="material-icons">check_circle_outline</i>
+        <div>
+          <p>Seguretat a UNICEF</p>
+          <span>Pendent</span>
+        </div>
+      </div>
+      <div>
+        <i class="material-icons">check_circle</i>
+        <div>
+          <p>Reproducció dels Mosquits Tigre</p>
+          <span>Acceptat</span>
+        </div>
+      </div>
+    </div>
+    <h2>Missatges</h2>
+    <div class="admin-send">
+      <div>
+        <i class="material-icons">record_voice_over</i>
+        <div>
+          <p>Documentació requerida</p>
+          <span>UPC</span>
+        </div>
+      </div>
+      <div>
+        <i class="material-icons">record_voice_over</i>
+        <div>
+          <p>Acceptar plaça</p>
+          <span>Facultat de Biologia</span>
+        </div>
+      </div>
+    </div>
+    <h2>Ajuda</h2>
+    <div class="admin-help">
+      <a href="#">FAQ - Preguntes Freqüents</a>
+      <a href="#">Contactar amb la UPC</a>
+    </div>
+  </section>
+  <section id="section-prof" class="section-hidden">
+
+  </section>
+  <footer>
+    <div id="footer-expl" onclick="showSection('expl');" class="footer-active"><i class="material-icons">public</i><span>Explorar</span></div>
+    <div id="footer-admin" onclick="showSection('admin');"><i class="material-icons">assignment</i><span>Administrar</span></div>
+    <div id="footer-prof" onclick="showSection('prof');"><i class="material-icons">person_outline</i><span>Perfil</span></div>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
