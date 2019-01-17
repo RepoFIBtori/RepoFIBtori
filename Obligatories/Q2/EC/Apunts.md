@@ -39,12 +39,14 @@
 ![](imatges/apuntsEC_33.jpg)
 ![](imatges/apuntsEC_34.jpg)
 ![](imatges/apuntsEC_35.jpg)
+![](imatges/apuntsEC_36.jpg)
 ## Tema 4
 ![](imatges/apuntsEC_37.jpg)
 ![](imatges/apuntsEC_38.jpg)
 ![](imatges/apuntsEC_39.jpg)
 ![](imatges/apuntsEC_40.jpg)
 ![](imatges/apuntsEC_41.jpg)
+![](imatges/apuntsEC_42.jpg)
 ## Tema 5
 ![](imatges/apuntsEC_45.jpg)
 ![](imatges/apuntsEC_46.jpg)
@@ -70,6 +72,7 @@
 ![](imatges/apuntsEC_66.jpg)
 ![](imatges/apuntsEC_67.jpg)
 ![](imatges/apuntsEC_68.jpg)
+![](imatges/apuntsEC_69.jpg)
 ## Tema 6
 ![](imatges/apuntsEC_70.jpg)
 ![](imatges/apuntsEC_71.jpg)
@@ -90,6 +93,7 @@
 ![](imatges/apuntsEC_86.jpg)
 ![](imatges/apuntsEC_87.jpg)
 ![](imatges/apuntsEC_88.jpg)
+![](imatges/apuntsEC_89.jpg)
 ## Tema 7
 ![](imatges/apuntsEC_90.jpg)
 ![](imatges/apuntsEC_91.jpg)
@@ -101,3 +105,4 @@
 ![](imatges/apuntsEC_97.jpg)
 ![](imatges/apuntsEC_98.jpg)
 ![](imatges/apuntsEC_99.jpg)
+![](imatges/apuntsEC_100.jpg)
