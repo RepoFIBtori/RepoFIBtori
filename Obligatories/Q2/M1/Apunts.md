@@ -1,4 +1,4 @@
-# Apunts M1  :gb:
+# Apunts M1  ![Inglés](http://www.kreativekorp.com/lib/flags/gb.png) 
 ## Chapter 1
 ![](imatges/apuntsM1_1.jpg)
 ![](imatges/apuntsM1_2.jpg)
