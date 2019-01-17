@@ -6,6 +6,8 @@
 
 - En el cas que pengis recursos que no siguin teus, assegura't que tens el permís de la persona o la persona en concret ho té penjat públicament (en aquest cas fica el link al recurs).
 
+- Si veus que no hi ha disponible l'enunciat del treball que vas a penjar, siusplau penja'l. 
+
 
 
 
