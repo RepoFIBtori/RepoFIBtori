@@ -4,6 +4,8 @@
 [![Github Stars](http://githubbadges.com/star.svg?user=RepoFIBtori&repo=RepoFIBtori&style=flat&color=fff&background=000)](https://github.com/RepoFIBtori/RepoFIBtori)
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/RepoFIBtori/RepoFIBtori.svg)](https://github.com/RepoFIBtori/RepoFIBtori)
 [![GitHub contributors](https://img.shields.io/github/contributors/RepoFIBtori/RepoFIBtori.svg)](https://GitHub.com/RepoFIBtori/RepoFIBtori/graphs/contributors/)
+[![GitHub license](https://img.shields.io/github/license/RepoFIBtori/RepoFIBtori.svg)](https://github.com/RepoFIBtori/RepoFIBtori/blob/master/LICENSE)
+
 
 
 
