@@ -1,7 +1,8 @@
 # RepoFIBtori: Apunts de la FIB
 [![HitCount](http://hits.dwyl.io/RepoFIBtori/RepoFIBtori.svg)](http://hits.dwyl.io/RepoFIBtori/RepoFIBtori)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/RepoFIBtori/RepoFIBtori)
-[![Github Stars](http://githubbadges.com/star.svg?user=RepoFIBtori&repo=RepoFIBtori&style=flat&color=fff&background=000)](https://github.com/RepoFIBtori/RepoFIBtori)
+[![GitHub stars](https://img.shields.io/github/stars/RepoFIBtori/RepoFIBtori.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/RepoFIBtori/RepoFIBtori/stargazers/)
+[![GitHub forks](https://img.shields.io/github/forks/RepoFIBtori/RepoFIBtori.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/RepoFIBtori/RepoFIBtori/network/)
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/RepoFIBtori/RepoFIBtori.svg)](https://github.com/RepoFIBtori/RepoFIBtori)
 [![GitHub contributors](https://img.shields.io/github/contributors/RepoFIBtori/RepoFIBtori.svg)](https://GitHub.com/RepoFIBtori/RepoFIBtori/graphs/contributors/)
 [![GitHub license](https://img.shields.io/github/license/RepoFIBtori/RepoFIBtori.svg)](https://github.com/RepoFIBtori/RepoFIBtori/blob/master/LICENSE)
