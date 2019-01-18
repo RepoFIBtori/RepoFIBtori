@@ -15,5 +15,5 @@
 ### Ruby on Rails
 - [Projecte Ruby on Rails - Albert Suàrez](https://github.com/AlbertSuarez/Practica-ASW)
 - [Projecte Ruby on Rails - Eduard Maura i Puig](https://github.com/mapu77/hacker-news)
-### AnjgularJS
+### AngularJS
 - [Projecte AngularJS - Albert Suàrez](https://github.com/victorpm5/HackerNew-Angular)
