@@ -2,6 +2,7 @@
 ## Tema 1
 ![](imatges/apuntsEC_43.jpg)
 ![](imatges/apuntsEC_44.jpg)
+![](imatges/afegit1.jpg)
 ## Tema 2
 ![](imatges/apuntsEC_1.jpg)
 ![](imatges/apuntsEC_2.jpg)

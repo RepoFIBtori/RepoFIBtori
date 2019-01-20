@@ -67,7 +67,6 @@
 ![](imatges/apuntsM1_63.jpg)
 ![](imatges/apuntsM1_64.jpg)
 ![](imatges/apuntsM1_65.jpg)
-![](imatges/apuntsM1_66.jpg)
 ![](imatges/apuntsM1_67.jpg)
 ![](imatges/apuntsM1_68.jpg)
 ![](imatges/apuntsM1_69.jpg)
