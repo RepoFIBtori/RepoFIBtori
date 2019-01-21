@@ -6,4 +6,4 @@
 
 ## Laboratori
 * [Preguntes Examen Final Lab](https://anonfile.com/Fff9a1r6bf/XC_pdf): PDF que conté una gran part de les preguntes de l'exàmen final de Laboratori de XC, resoltes. Al contestar les preguntes tal i com es mostren en el PDF, la nota serà entre 5.5 i 7 (depenent de les que apareguin en el teu test, ja que hi ha algunes preguntes que no apareixen al pdf)
-* [Preguntes Examen Final Lab - Amb imatges](https://anonfile.com/A7gfa3rcb9/jun_7_Doc_1_1_pdf): Conté les preguntes, que podràs corregir ja que té les imatges incloses (qualitat molt baixa).
+* [?](https://anonfile.com/A7gfa3rcb9/jun_7_Doc_1_1_pdf)
