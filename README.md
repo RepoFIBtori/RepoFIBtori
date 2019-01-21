@@ -42,3 +42,7 @@ Si necessites calcular la teva nota o vols saber el que et queda per aprovar et 
 ## Pàgines importants
 - [Fibernalia](http://fibernalia.blogspot.com/)
 - [Fibers](https://fibers.cat/)
+
+
+### IGNORAR -------------
+FIB, RepoFIBtori, Informatica, Barcelona, UPC, Universitat, Catalunya, Apunts, Practiques, Laboratoris, Practicas, Laboratorios, PEC, Test, Atenea, CI, AC, XC, SO, FM
