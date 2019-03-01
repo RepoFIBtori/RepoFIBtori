@@ -1,6 +1,7 @@
 # IDI - Interacció i Disseny de Interfícies
 ## Laboratori
 - [Laboratoris OpenGL/Qt](https://github.com/AlbertSuarez/IDI-Labs)
+- [Laboratoris OpenGL/Qt Q2 2017-2018](https://github.com/atsuky/IDI-FIB)
 - [Exemple de aplicació Android](https://github.com/AlbertSuarez/Remindit)
 
 ## Teoria
