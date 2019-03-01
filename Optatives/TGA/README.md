@@ -1,0 +1,4 @@
+# TGA
+
+## Pràctiques
+- []() 
