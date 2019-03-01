@@ -5,7 +5,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/RepoFIBtori/RepoFIBtori.svg)](https://GitHub.com/RepoFIBtori/RepoFIBtori/network/)
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/RepoFIBtori/RepoFIBtori.svg)](https://github.com/RepoFIBtori/RepoFIBtori)
 [![GitHub contributors](https://img.shields.io/github/contributors/RepoFIBtori/RepoFIBtori.svg)](https://GitHub.com/RepoFIBtori/RepoFIBtori/graphs/contributors/)
-[![GitHub license](https://img.shields.io/github/license/RepoFIBtori/RepoFIBtori.svg)](https://github.com/RepoFIBtori/RepoFIBtori/blob/master/LICENSE)
+
 
 
 
@@ -27,11 +27,13 @@ Si et decideixes a contribuir, llegeix aquesta guia 📖[CONTRIBUTING.md](https:
   - **Q5 i Q6**: [PAR](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q5/PAR) - [PROP](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q5/PROP)
 
 ### Especialitat
+#### Obligatòries
 - **Computació**: [IA](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Computacio/Q4/IA) - [A](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Computacio/A) - [TC](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Computacio/TC) - [G](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Computacio/G) - [LP](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Computacio/LP) - [LI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Computacio/LI)
 - **Software**: [PES](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Software/PES) - [GPS](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Software/GPS) - [AS](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Software/AS) - [ASW](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Software/ASW) - [DBD](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Software/DBD) - [ER](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Software/ER) - [CBDE](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Software/CBDE) - [ECSDI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Software/ECSDI)
 - **Tecnologies de la Informació**: [SI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/TI/SI) - [ASO](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/TI/ASO) - [PI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/TI/PI) - [PTI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/TI/PTI) - [SOA](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/TI/SOA) - [TXC](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/TI/TXC)
 - **Sistemes de la Informació**: [NE](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/SI/NE) - [ADEI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/SI/ADEI) - [DSI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/SI/DSI) - [ER](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/SI/ER) - [PSI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/SI/PSI) - [SIO](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/SI/SIO)
 - **Hardware**: [AC2](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Hardware/AC2) - [DSBM](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Hardware/DBSM) - [MP](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Hardware/MP) - [PEC](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Hardware/PEC) - [SO2](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Hardware/SO2) - [XC2](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Hardware/XC2)
+#### Complementàries
 
 ### Optatives
 [TGA](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Optatives/TGA) - [VJ](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Optatives/VJ) - etc.
