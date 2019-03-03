@@ -6,4 +6,5 @@
 
 
 ### 2016-2017 Q2 Experiments genètics al laboratori
+- [Pràctica de Laboratori - Andreu Gallofré](https://github.com/atsuky/Practica-Pro2-Genetica)
 - [Pràctica de Laboratori - Adrià Cabeza](https://github.com/adriacabeza/ProjectPRO2)
