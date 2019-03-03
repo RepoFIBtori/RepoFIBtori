@@ -3,6 +3,7 @@
 ### 2017-2018 Q1 Generador d'horaris
 - [Schedule Generator - Adrià Cabeza](https://github.com/adriacabeza/Schedule-Generator)
 - [Schedule Genie - Maurici Abad](https://github.com/mauriciabad/PROP_2018-2019_Q1)
+- [Schedule Generator - Andreu Gallofre](https://github.com/atsuky/GeneradorHoraris)
 ### 2015-2016 Q2 WIKIPEDIA
 - [Albert Suarez](https://github.com/AlbertSuarez/Wikipedia-PROP)
 ### 2015-2016 Q1 KenKen
