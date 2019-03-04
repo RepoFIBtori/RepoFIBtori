@@ -1,4 +1,4 @@
-# VJ
+# VJ - VideoJocs
 
 ## Joc 2D
 
