@@ -36,7 +36,7 @@ Si et decideixes a contribuir, llegeix aquesta guia 📖[CONTRIBUTING.md](https:
 #### Complementàries
 
 ### Optatives
-[TGA](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Optatives/TGA) - [VJ](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Optatives/VJ) - etc.
+[TGA](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Optatives/TGA) - [VJ](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Optatives/VJ) - [VC](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Optatives/VC) etc.
 
 ## Calcular notes 
 Si necessites calcular la teva nota o vols saber el que et queda per aprovar et recomanem aquesta web app feta per estudiants de la FIB: 💯 [GradeCalc](https://gradecalc.net/)
