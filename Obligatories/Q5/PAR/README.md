@@ -1,4 +1,4 @@
 # PAR - Paral·lelisme
 ## Laboratoris
 
-*Suigues el primer en penjar apunts*
+- [Laboratoris realitzats al Q2 2017/2018](https://github.com/carlotacb/PAR-Laboratoris)
