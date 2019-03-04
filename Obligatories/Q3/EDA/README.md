@@ -7,3 +7,4 @@
 ## JOC
 
 - [Ork Island EDA - Andreu Gallofré](https://github.com/atsuky/TheGameEDA)
+- [StarWar - Carlota Catot](https://github.com/carlotacb/StarWar)
