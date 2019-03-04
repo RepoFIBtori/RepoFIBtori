@@ -1,4 +1,4 @@
-# VC
+# VC - Visió per Computador
 
 ## Laboratoris
 
