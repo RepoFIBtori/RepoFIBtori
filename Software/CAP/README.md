@@ -1,4 +1,4 @@
-# CAP
+# CAP - Conceptes Avançats de Programació
 
 ## Reflexió
 
