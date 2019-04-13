@@ -1,3 +1,5 @@
 # DBD - Disseny de Bases de Dades
 
-*Sigues el primer en penjar apunts*
+## Trainings
+
+- [Training 4](training_4.md)
