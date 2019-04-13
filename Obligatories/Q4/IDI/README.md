@@ -8,3 +8,5 @@
 
 ## Teoria
 - [Disseny i usabilitat](https://github.com/RepoFIBtori/RepoFIBtori/blob/master/Obligatories/Q4/IDI/IDI%20-Design%20Principles.md)
+- [HCI_Laws_Fitts_ColorResum](HCI_Laws_Fitts_ColorResum.pdf)
+- [UsabilityTestingResum](UsabilityTestingResum.pdf)
