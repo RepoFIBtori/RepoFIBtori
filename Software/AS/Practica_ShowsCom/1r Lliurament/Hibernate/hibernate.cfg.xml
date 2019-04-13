@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+
+    <session-factory>
+
+        <!-- Database connection settings -->
+        <property name="connection.driver_class">org.apache.derby.jdbc.ClientDriver</property>
+        <property name="connection.url">jdbc:derby://localhost:1527/HibernateDB;create=true</property>
+        <property name="connection.username">user</property>
+        <property name="connection.password">as</property>
+		<property name="hibernate.default_schema">TESTSCHEMA</property>
+		
+        <!-- JDBC connection pool (use the built-in) -->
+        <property name="connection.pool_size">2</property>
+
+        <!-- SQL dialect -->
+        <property name="dialect">org.hibernate.dialect.DerbyDialect</property>
+
+        <!-- Enable Hibernate's current session context -->
+        <property name="current_session_context_class">thread</property>
+
+        <!-- Disable the second-level cache  -->
+        <property name="cache.provider_class">org.hibernate.cache.NoCacheProvider</property>
+
+        <!-- Echo all executed SQL to stdout -->
+        <property name="show_sql">true</property>
+
+   <!--      Drop and re-create the database schema on startup
+        <property name="hbm2ddl.auto">create</property>
+
+        <mapping resource="org/hibernate/tutorial/domain/Event.hbm.xml"/>
+        <mapping resource="org/hibernate/tutorial/domain/Person.hbm.xml"/> -->
+
+    </session-factory>
+
+</hibernate-configuration>
+
