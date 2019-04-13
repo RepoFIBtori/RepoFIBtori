@@ -22,3 +22,7 @@
 ### Vue.js
 - [Projecte Vue.js - Carlota Catot](https://github.com/carlotacb/IssueTracker_FrontEnd)
 
+## Presentacions
+- [LinkedData](Presentacions/LinkedData.pdf)
+- [Microframeworks](Presentacions/Microframeworks.pdf)
+
