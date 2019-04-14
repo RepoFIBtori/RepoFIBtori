@@ -2,7 +2,7 @@
 ## Teoria
 - [Màquines de Turing](https://github.com/RepoFIBtori/RepoFIBtori/blob/master/Computacio/TC/MaquinesTuring.md)
 - [Exercicis de Pissarra](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Computacio/TC/Exercicis_pissarra)
-- [Aprobar TC para Dummies](https://github.com/RepoFIBtori/RepoFIBtori/blob/master/Computacio/TC/Aprobar_TC_para_dummies-10.pdf)
+- [Aprobar TC para Dummies](https://github.com/RepoFIBtori/RepoFIBtori/blob/master/Computacio/TC/Aprobar_TC_para_dummies-10.pdf) 
 - [Apuntes by JnxF](https://github.com/JnxF/grau-tc)
 
 ## Llista d'exercicis del RACSO: 
@@ -14,3 +14,4 @@
 - [Reduccions de CFG (CFG)](https://github.com/RepoFIBtori/RepoFIBtori/blob/master/Computacio/TC/ReduccionsdeCFG.md)
 - [Exàmens](https://github.com/RepoFIBtori/RepoFIBtori/blob/master/Computacio/TC/Examens.md)
 
+Si algú vol continuar amb **Aprobar TC para Dummies** i afegir-hi nous problemes i exercicis aquí té el link :  https://www.overleaf.com/read/kvxgqkytmkmq (kudos to [@alvarogirona](https://github.com/alvarogirona)).
