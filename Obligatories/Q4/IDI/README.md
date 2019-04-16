@@ -11,5 +11,8 @@
 - [HCI_Laws_Fitts_ColorResum](HCI_Laws_Fitts_ColorResum.pdf)
 - [UsabilityTestingResum](UsabilityTestingResum.pdf)
 
+## Apunts
+- [Apunts de (gairebé) tot el temari](https://github.com/JnxF/grau-idi)
+
 ## Examens
 - [Examens](Examens/)
