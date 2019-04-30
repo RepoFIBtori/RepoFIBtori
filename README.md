@@ -1,4 +1,4 @@
-# RepoFIBtori: Apunts de la FIB
+# Apunts d'Enginyeria Informàtica | FIB UPC
 
 [![HitCount](http://hits.dwyl.io/RepoFIBtori/RepoFIBtori.svg)](http://hits.dwyl.io/RepoFIBtori/RepoFIBtori)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/RepoFIBtori/RepoFIBtori)
@@ -42,9 +42,6 @@ Si necessites calcular la teva nota o vols saber el que et queda per aprovar et 
 
 ## Pàgines importants
 
-- [Fibernalia](http://fibernalia.blogspot.com/)
-- [Fibers](https://fibers.cat/)
-
-
-### IGNORAR -------------
-FIB, RepoFIBtori, Informatica, Barcelona, UPC, Universitat, Catalunya, Apunts, Practiques, Laboratoris, Practicas, Laboratorios, PEC, Test, Atenea, CI, AC, XC, SO, FM
+- [Fibernalia](http://fibernalia.blogspot.com/) - [Mirror](http://web.archive.org/web/fibernalia.blogspot.com)
+- [Fibers](https://fibers.cat/) - [Mirror](http://web.archive.org/web/fibers.cat/)
+- [Pastebin](https://pastebin.com/)
