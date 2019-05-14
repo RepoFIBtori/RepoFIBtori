@@ -20,6 +20,3 @@
 ## Pràctiques
 ### 2018-2019 Q1 
 - [Pràctica A](https://github.com/adriacabeza/Document-similarity-detection-using-hashing): Fet per Carlos Bergillos, Antoni Rambla i Adrià Cabeza
-
-## Enllaços
-[http://algoritmica-fib.blogspot.com/](http://algoritmica-fib.blogspot.com/)
