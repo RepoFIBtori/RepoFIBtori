@@ -23,6 +23,7 @@
 - [Projecte Vue.js - Carlota Catot](https://github.com/carlotacb/IssueTracker_FrontEnd)
 
 ## Presentacions
+- [Q2 2018-2019](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Software/ASW/Presentacions/Q2-2018-2019)
 - [LinkedData](Presentacions/LinkedData.pdf)
 - [Microframeworks](Presentacions/Microframeworks.pdf)
 
