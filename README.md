@@ -40,9 +40,15 @@ Si et decideixes a contribuir, llegeix aquesta guia 📖[CONTRIBUTING.md](https:
 
 Si necessites calcular la teva nota o vols saber el que et queda per aprovar et recomanem aquesta web app feta per estudiants de la FIB: 💯 [GradeCalc](https://gradecalc.net/)
 
-## Pàgines importants
+## Altres pàgines d'apunts importants
 
 - [Fibernalia](http://fibernalia.blogspot.com/) - [Mirror](http://web.archive.org/web/fibernalia.blogspot.com)
 - [Repo Fibernalia](https://github.com/Fibernalia?tab=repositories)
 - [Fibers](https://fibers.cat/) - [Mirror](http://web.archive.org/web/fibers.cat/)
 - [Pastebin](https://pastebin.com/)
+
+### Pàgines desactualitzades 
+
+No valen gaire la pena, pero potser troveu algo útil.
+
+- [oscargp.com](http://www.oscargp.com/2008/02/apuntes-de-ingenieria-informatica-fib-upc.html)
