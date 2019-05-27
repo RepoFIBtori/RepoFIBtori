@@ -34,7 +34,7 @@ Si et decideixes a contribuir, llegeix aquesta guia 📖[CONTRIBUTING.md](https:
 
 ### Optatives
 
-[TGA](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Optatives/TGA) - [VJ](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Optatives/VJ) - [VC](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Optatives/VC) - [CCQ](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Optatives/CCQ) - [ASMI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Optatives/ASMI) - [SLDS](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Optatives/SLDS) etc.
+[TGA](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Optatives/TGA) - [VJ](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Optatives/VJ) - [VC](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Optatives/VC) - [CCQ](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Optatives/CCQ) - [ASMI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Optatives/ASMI) - [SLDS](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Optatives/SLDS) - [MI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Optatives/MI) etc.
 
 ## Calcular notes
 
