@@ -49,6 +49,6 @@ Si necessites calcular la teva nota o vols saber el que et queda per aprovar et 
 
 ### Pàgines desactualitzades 
 
-No valen gaire la pena, pero potser troveu algo útil.
+No valen gaire la pena, pero potser trobeu algo útil.
 
 - [oscargp.com](http://www.oscargp.com/2008/02/apuntes-de-ingenieria-informatica-fib-upc.html)
