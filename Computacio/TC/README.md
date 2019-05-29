@@ -6,12 +6,13 @@
 - [Apuntes by JnxF](https://github.com/JnxF/grau-tc)
 
 ## Llista d'exercicis del RACSO: 
-- [Regular descriptions(Reg)](https://github.com/RepoFIBtori/RepoFIBtori/blob/master/Computacio/TC/Regular%20descriptions.md)
-- [Context-free grammars(CFG)](https://github.com/RepoFIBtori/RepoFIBtori/blob/master/Computacio/TC/Context-free%20grammars.md)
-- [Deterministic Finite Automaton (DFA)](https://github.com/RepoFIBtori/RepoFIBtori/blob/master/Computacio/TC/DFA.md)
-- [Pushdown Automaton (PDA)](https://github.com/RepoFIBtori/RepoFIBtori/blob/master/Computacio/TC/PDA.md)
-- [Reduccions de K (K)](https://github.com/RepoFIBtori/RepoFIBtori/blob/master/Computacio/TC/ReduccionsdeK.md)
-- [Reduccions de CFG (CFG)](https://github.com/RepoFIBtori/RepoFIBtori/blob/master/Computacio/TC/ReduccionsdeCFG.md)
-- [Exàmens](https://github.com/RepoFIBtori/RepoFIBtori/blob/master/Computacio/TC/Examens.md)
+
+- [Regular descriptions(Reg)](https://github.com/adriacabeza/TC/blob/master/Regular%20descriptions.md)
+- [Context-free grammars(CFG)](https://github.com/adriacabeza/TC/blob/master/Context-free%20grammars.md)
+- [Deterministic Finite Automaton (DFA)](https://github.comadriacabeza/TC/blob/master/DFA.md)
+- [Pushdown Automaton (PDA)](https://github.com/adriacabeza/TC/blob/master/PDA.md)
+- [Reduccions de K (K)](https://github.com/adriacabeza/TC/blob/master/ReduccionsdeK.md)
+- [Reduccions de CFG (CFG)](https://github.com/adriacabeza/TC/blob/master/ReduccionsdeCFG.md)
+- [Exàmens](https://github.com/adriacabeza/TC/blob/master/Examens.md)
 
 Si algú vol continuar amb **Aprobar TC para Dummies** i afegir-hi nous problemes i exercicis aquí té el link :  https://www.overleaf.com/read/kvxgqkytmkmq (kudos to [@alvarogirona](https://github.com/alvarogirona)).
