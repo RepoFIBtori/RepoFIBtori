@@ -8,7 +8,7 @@ Aquí podrás encontrar:
 * [Curso de AC entero de la A a la Z](https://test.scalable-learning.com/) - Registrate en la página y entra el código: __YRLRX-25436__ para entrar en el curso.
 
 **También tienes el curso desglosado en youtube:**
->> Son enlaces ocultos por lo que sólo los podrás acceder des de los links:
+> Son enlaces ocultos por lo que sólo los podrás acceder des de los links:
 ##### Memória Caché 1
 
 [1. Memory Hierachy](http://uiz.io/74oj) - Jerarquia de memória <br>
