@@ -1,10 +1,12 @@
 
 # AC - FIB
-Aquí podrás encontrar:
-* [Exámenes Resueltos](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q4/AC/Examens)
+
+### Material para el laboratorio:
 * [Prácticas y demás](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q4/AC/Practicas)
 
 ### Documentación interesante para los exámenes:
+* [Exámenes Resueltos](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q4/AC/Examens)
+
 * [Curso de AC entero de la A a la Z](https://test.scalable-learning.com/) - Registrate en la página y entra el código: __YRLRX-25436__ para entrar en el curso.
 
 **También tienes el curso desglosado en youtube:**
