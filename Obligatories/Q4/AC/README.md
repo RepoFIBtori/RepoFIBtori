@@ -11,13 +11,13 @@ Aquí podrás encontrar:
 ##### Memória Caché 1
 
 [1. Memory Hierachy](http://uiz.io/74oj) - Jerarquia de memória <br>
-[2. Caches and Performance](http://uiz.io/jL7t) - Rendimiento de la caché
-[3. Example instruction cache](http://uiz.io/cdXU) - Ejemplo de caché de instrucciones
-[4. How caches work](http://uiz.io/U3RH) - Cómo funcionan las cachés
-[5. Cache blocks](http://uiz.io/vdNT) - Bloques de caché
-[6. Direct mapped caches](http://uiz.io/Bcy2) - Caché de mapeo directo
-[7. Set associative cahces](http://uiz.io/aI99) - Caché asociativa por conjuntos
-[8. Cache Example](http://uiz.io/7Mgq) - Ejemplo de caché
+[2. Caches and Performance](http://uiz.io/jL7t) - Rendimiento de la caché <br>
+[3. Example instruction cache](http://uiz.io/cdXU) - Ejemplo de caché de instrucciones <br>
+[4. How caches work](http://uiz.io/U3RH) - Cómo funcionan las cachés <br>
+[5. Cache blocks](http://uiz.io/vdNT) - Bloques de caché <br>
+[6. Direct mapped caches](http://uiz.io/Bcy2) - Caché de mapeo directo <br>
+[7. Set associative cahces](http://uiz.io/aI99) - Caché asociativa por conjuntos <br>
+[8. Cache Example](http://uiz.io/7Mgq) - Ejemplo de caché <br>
 
 ##### Memória Virtual - Lista de reproducción
 * [Qué és y cómo funciona la Memória Virtual?](https://www.youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX) - Série de vídeos muy detallados y entendibles (en Inglés) sobre la memória virtual.
