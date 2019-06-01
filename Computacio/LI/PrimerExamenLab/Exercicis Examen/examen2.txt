@@ -1,0 +1,95 @@
+1.- [2.5 points] We use a list like [ [1,4],[4,3],[3,2],[2,1] ] to
+
+represent a directed graph with edges 1-->4, 4-->3, etc.  Write a
+
+predicate path(G,N1,N2) that, given a graph G and nodes N1 and N2 of
+
+G, is satisfied if there is a (directed) path in G from N1 to N2.
+
+Example:
+
+?- path([[1,2],[2,3],[3,1],[1,3],[3,4],[4,5],[5,4],[4,6]],1,6).
+
+true.
+
+?- path([[1,2],[2,3],[3,1],[1,3],[3,4],[4,5],[5,4],[4,6]],5,1).
+
+false.
+
+Hint: the follow program pattern can be completed to obtain a valid
+
+solution. The built-in predicate select (pert_con_resto) means "X is a
+
+member of the list L, and R is the list of remaining elements of L".
+
+path( ,  ,  ):- !.
+
+path( ,  ,  ):- select( , , ), path( , , ),!.
+
+Submit a single file named p1.pl (other names will not be accepted!)
+
+2.- [2.5 points] In 2-SAT, a clause like \+3 v 4 can be seen as two
+
+different implications: 3 --> 4 and \+4 --> \+3.
+
+Using this idea, from a set of two-literal clauses S, we can create a
+
+directed graph G: for each clause lit1 v lit2 of S, the graph G gets
+
+the two edges \+lit1 --> lit2 and \+lit2 --> lit1.
+
+It is well known that then S is satisfiable iff there is no cycle in G
+
+containing some variable x and its negation \+x (i.e. a path from x to
+
+\+x and another path from \+x to x)
+
+2-SAT: Given a set of two-literal clauses S with variables numbered
+
+1..N, represented by a list such as [ [\+3,4],[8,\+2],...] to indicate
+
+clauses \+3 v 4, 8 v \+2, ... write a predicate sat(N,S) that tells us
+
+whether S is satisfiable.
+
+Example:
+
+?- sat(6,[[\+1,2],[\+2,3],[\+4,\+6],[\+2,\+4],[4,5],[\+6,1],[\+5,\+2],[2,1]]).
+
+false.
+
+?- sat(6,[[\+1,2],[\+2,3],[\+4,\+6],[4,5],[\+6,1],[\+5,\+2],[2,1]]).
+
+true.
+
+Hint:  The follow program pattern can be completed
+
+to obtain a valid solution.								
+																				l
+% Should be used to negate literals
+
+negate(\+X,X):-!.
+
+negate(X,\+X).
+
+sat(N,S):-
+
+   findall(X,,G1),
+
+   findall(,,G2),  
+   
+   append(G1,G2,G),
+
+   \+badCycle(N,G).
+
+   
+
+badCycle(N,G):- .....
+
+Submit a single file named p2.pl (other names will not be accepted!)
+
+3.- [5 points] Complete the Prolog program neighbours.pl
+
+Submit a single file named neighbours.pl (other names will not be
+
+accepted!)
