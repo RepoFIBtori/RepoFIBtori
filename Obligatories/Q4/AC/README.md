@@ -23,5 +23,8 @@ Si eres de los que nunca va a clase, esto es para ti:
 [7. Set associative cahces](http://uiz.io/aI99) - Caché asociativa por conjuntos <br>
 [8. Cache Example](http://uiz.io/7Mgq) - Ejemplo de caché <br>
 
+##### Memória Caché 2
+[1. Replacement policy](https://www.youtube.com/embed/p-UsUuQelUY?modestbranding=0&showinfo=0&rel=0&autohide=0&playsinline=1&controls=0&theme=light&end=352&vq=hd720&iv_load_policy=3&origin=https%3A%2F%2Ftest.scalable-learning.com&wmode=opaque&enablejsapi=1&widgetid=1) - Politicas de reemplazo
+
 ##### Memória Virtual - Lista de reproducción
 [- ¿Qué és y cómo funciona la Memória Virtual?](https://www.youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX).
