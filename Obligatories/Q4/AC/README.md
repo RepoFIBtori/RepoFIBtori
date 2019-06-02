@@ -7,10 +7,7 @@
 ### Documentación interesante para los exámenes:
 * [Exámenes Resueltos](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q4/AC/Examens)
 
-Si eres de los que nunca va a clase, esto es para ti:
-* [Curso de AC entero de la A a la Z](https://test.scalable-learning.com/) - Registrate en la página y entra el código: __YRLRX-25436__ para entrar en el curso. Es un curso con prácticamente la mayor parte del temario importante, muy bien explicado y detallado.
-
-**También tienes el curso desglosado en youtube:**
+* A continuación hay un curso de AC con la teoria de los temas más importantes, para la gente que nunca va a clase o para repasar y aclarar conceptos, está en inglés pero está muy bien explicado. [Fuente](https://test.scalable-learning.com/) (entra el código: __YRLRX-25436__ para entrar en este curso) <br>
 > Son enlaces ocultos por lo que sólo los podrás acceder des de los links:
 ##### Memória Caché 1
 
