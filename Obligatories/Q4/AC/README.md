@@ -35,4 +35,4 @@
 [2. ¿Qué es RAID? Los niveles de RAID](https://tecnologia-informatica.com/que-es-raid-los-niveles-de-raid) <br>
 [2. Wikipedia RAID](https://es.wikipedia.org/wiki/RAID) - Español <br>
 [3. Vikipèdia RAID](https://ca.wikipedia.org/wiki/RAID) - Català <br>
-
+[4. RAIDS](https://rentry.co/raids) - Pequeña explicación - FcbVXdTX <br>
