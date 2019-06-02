@@ -24,11 +24,11 @@ Si eres de los que nunca va a clase, esto es para ti:
 [8. Cache Example](https://www.youtube.com/watch?v=n9WKqDIssc4) - Ejemplo de caché <br>
 
 ##### Memória Caché 2
-[1. Replacement policy](https://www.youtube.com/embed/p-UsUuQelUY?modestbranding=0&showinfo=0&rel=0&autohide=0&playsinline=1&controls=0&theme=light&end=352&vq=hd720&iv_load_policy=3&origin=https%3A%2F%2Ftest.scalable-learning.com&wmode=opaque&enablejsapi=1&widgetid=1) - Politicas de reemplazo
-[2. Writing policies](https://www.youtube.com/embed/lieh5w-3UXc?modestbranding=0&showinfo=0&rel=0&autohide=0&playsinline=1&controls=0&theme=light&end=299&vq=hd720&iv_load_policy=3&origin=https%3A%2F%2Ftest.scalable-learning.com&wmode=opaque&enablejsapi=1&widgetid=3) - Políticas de escritura
-[3. Caché performance](https://www.youtube.com/embed/-YQi_unezao?modestbranding=0&showinfo=0&rel=0&autohide=0&playsinline=1&controls=0&theme=light&end=567&vq=hd720&iv_load_policy=3&origin=https%3A%2F%2Ftest.scalable-learning.com&wmode=opaque&enablejsapi=1&widgetid=5) - Desempeño de la caché
-[4. Data and instructions caches](https://www.youtube.com/embed/DclE8ikbwNo?modestbranding=0&showinfo=0&rel=0&autohide=0&playsinline=1&controls=0&theme=light&end=244&vq=hd720&iv_load_policy=3&origin=https%3A%2F%2Ftest.scalable-learning.com&wmode=opaque&enablejsapi=1&widgetid=7) - Caches de instrucciones y datos
-[5. Caché summary](https://www.youtube.com/embed/oGinW9krVSY?modestbranding=0&showinfo=0&rel=0&autohide=0&playsinline=1&controls=0&theme=light&end=203&vq=hd720&iv_load_policy=3&origin=https%3A%2F%2Ftest.scalable-learning.com&wmode=opaque&enablejsapi=1&widgetid=9) - Resumen de caché
+[1. Replacement policy](https://www.youtube.com/embed/p-UsUuQelUY?modestbranding=0&showinfo=0&rel=0&autohide=0&playsinline=1&controls=0&theme=light&end=352&vq=hd720&iv_load_policy=3&origin=https%3A%2F%2Ftest.scalable-learning.com&wmode=opaque&enablejsapi=1&widgetid=1) - Politicas de reemplazo <br>
+[2. Writing policies](https://www.youtube.com/embed/lieh5w-3UXc?modestbranding=0&showinfo=0&rel=0&autohide=0&playsinline=1&controls=0&theme=light&end=299&vq=hd720&iv_load_policy=3&origin=https%3A%2F%2Ftest.scalable-learning.com&wmode=opaque&enablejsapi=1&widgetid=3) - Políticas de escritura <br>
+[3. Caché performance](https://www.youtube.com/embed/-YQi_unezao?modestbranding=0&showinfo=0&rel=0&autohide=0&playsinline=1&controls=0&theme=light&end=567&vq=hd720&iv_load_policy=3&origin=https%3A%2F%2Ftest.scalable-learning.com&wmode=opaque&enablejsapi=1&widgetid=5) - Desempeño de la caché <br>
+[4. Data and instructions caches](https://www.youtube.com/embed/DclE8ikbwNo?modestbranding=0&showinfo=0&rel=0&autohide=0&playsinline=1&controls=0&theme=light&end=244&vq=hd720&iv_load_policy=3&origin=https%3A%2F%2Ftest.scalable-learning.com&wmode=opaque&enablejsapi=1&widgetid=7) - Caches de instrucciones y datos <br>
+[5. Caché summary](https://www.youtube.com/embed/oGinW9krVSY?modestbranding=0&showinfo=0&rel=0&autohide=0&playsinline=1&controls=0&theme=light&end=203&vq=hd720&iv_load_policy=3&origin=https%3A%2F%2Ftest.scalable-learning.com&wmode=opaque&enablejsapi=1&widgetid=9) - Resumen de caché <br>
 
 ##### Memória Virtual - Lista de reproducción
 [- ¿Qué és y cómo funciona la Memória Virtual?](https://www.youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX).
