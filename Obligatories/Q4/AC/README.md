@@ -31,8 +31,8 @@
 [- ¿Qué és y cómo funciona la Memória Virtual?](https://www.youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX). <br>
 
 ##### RAIDS - Teoría rápida
-[1. RAID 0, RAID 1 Y RAID 10](https://www.youtube.com/watch?v=eE7Bfw9lFfs) - Vídeo corto en inglés
-[2. ¿Qué es RAID? Los niveles de RAID](https://tecnologia-informatica.com/que-es-raid-los-niveles-de-raid)
-[2. Wikipedia RAID](https://es.wikipedia.org/wiki/RAID) - Español
-[3. Vikipèdia RAID](https://ca.wikipedia.org/wiki/RAID) - Català
+[1. RAID 0, RAID 1 Y RAID 10](https://www.youtube.com/watch?v=eE7Bfw9lFfs) - Vídeo corto en inglés <br>
+[2. ¿Qué es RAID? Los niveles de RAID](https://tecnologia-informatica.com/que-es-raid-los-niveles-de-raid) <br>
+[2. Wikipedia RAID](https://es.wikipedia.org/wiki/RAID) - Español <br>
+[3. Vikipèdia RAID](https://ca.wikipedia.org/wiki/RAID) - Català <br>
 
