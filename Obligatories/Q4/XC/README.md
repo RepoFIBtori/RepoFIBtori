@@ -2,6 +2,7 @@
 
 ## Teoria
 - [Parcial 1](https://github.com/hialvaro/XC-FIB/blob/master/README.md)
+- [Bíblia de XC](https://anonfile.com/44x6J2t5ne/9788498803310_pdf) - Descarrega el llibre en pdf
 - [ARQ,TCP i UDP](https://github.com/RepoFIBtori/RepoFIBtori/blob/master/Obligatories/Q4/XC/ARQ%2CTCP%2CUDP.md)
 - [DNS i e-mail](https://github.com/RepoFIBtori/RepoFIBtori/blob/master/Obligatories/Q4/XC/DNS%2C%20e-mail.md)
 
