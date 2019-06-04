@@ -18,23 +18,23 @@ Si et decideixes a contribuir, llegeix aquesta guia 📖[CONTRIBUTING.md](https:
 ## Assignatures
 
 ### Obligatòries
-  - **Q1**: [PRO1](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q1/PRO1) -  [IC](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q1/IC) -  [FM](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q1/FM) -  [F](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q1/F)
-  - **Q2**: [PRO2](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q2/PRO2) - [EC](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q2/EC) - [M1](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q2/M1) - [M2](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q2/M2)
-  - **Q3**: [EDA](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q3/EDA) - [CI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q3/CI) - [BD](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q3/BD) - [PE](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q3/PE) - [SO](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q3/SO)
-  - **Q4**: [EEE](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q4/EEE) - [XC](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q4/XC) - [IDI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q4/IDI) - [AC](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q4/AC) - [IES](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q4/IES)
-  - **Q5 i Q6**: [PAR](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q5/PAR) - [PROP](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q5/PROP)
+  - **Q1**: [PRO1](Obligatories/Q1/PRO1) -  [IC](Obligatories/Q1/IC) -  [FM](Obligatories/Q1/FM) -  [F](Obligatories/Q1/F)
+  - **Q2**: [PRO2](Obligatories/Q2/PRO2) - [EC](Obligatories/Q2/EC) - [M1](Obligatories/Q2/M1) - [M2](Obligatories/Q2/M2)
+  - **Q3**: [EDA](Obligatories/Q3/EDA) - [CI](Obligatories/Q3/CI) - [BD](Obligatories/Q3/BD) - [PE](Obligatories/Q3/PE) - [SO](Obligatories/Q3/SO)
+  - **Q4**: [EEE](Obligatories/Q4/EEE) - [XC](Obligatories/Q4/XC) - [IDI](Obligatories/Q4/IDI) - [AC](Obligatories/Q4/AC) - [IES](Obligatories/Q4/IES)
+  - **Q5 i Q6**: [PAR](Obligatories/Q5/PAR) - [PROP](Obligatories/Q5/PROP)
 
 ### Especialitat
 
-- **Computació**: [IA](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Computacio/IA) - [A](/Computacio/A) - [TC](Computacio/TC) - [G](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Computacio/G) - [LP](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Computacio/LP) - [LI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Computacio/LI)
-- **Software**: [PES](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Software/PES) - [GPS](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Software/GPS) - [AS](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Software/AS) - [ASW](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Software/ASW) - [DBD](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Software/DBD) - [ER](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Software/ER) - [CBDE](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Software/CBDE) - [ECSDI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Software/ECSDI) - [CAP](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Software/CAP) - [CSI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Software/CSI)
-- **Tecnologies de la Informació**: [SI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/TI/SI) - [ASO](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/TI/ASO) - [PI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/TI/PI) - [PTI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/TI/PTI) - [SOA](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/TI/SOA) - [TXC](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/TI/TXC)
-- **Sistemes de la Informació**: [NE](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/SI/NE) - [ADEI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/SI/ADEI) - [DSI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/SI/DSI) - [ER](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/SI/ER) - [PSI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/SI/PSI) - [SIO](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/SI/SIO)
-- **Hardware**: [AC2](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Hardware/AC2) - [DSBM](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Hardware/DBSM) - [MP](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Hardware/MP) - [PEC](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Hardware/PEC) - [SO2](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Hardware/SO2) - [XC2](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Hardware/XC2)
+- **Computació**: [IA](Computacio/IA) - [A](/Computacio/A) - [TC](Computacio/TC) - [G](Computacio/G) - [LP](Computacio/LP) - [LI](Computacio/LI)
+- **Software**: [PES](Software/PES) - [GPS](Software/GPS) - [AS](Software/AS) - [ASW](Software/ASW) - [DBD](Software/DBD) - [ER](Software/ER) - [CBDE](Software/CBDE) - [ECSDI](Software/ECSDI) - [CAP](Software/CAP) - [CSI](Software/CSI)
+- **Tecnologies de la Informació**: [SI](TI/SI) - [ASO](TI/ASO) - [PI](TI/PI) - [PTI](TI/PTI) - [SOA](TI/SOA) - [TXC](TI/TXC)
+- **Sistemes de la Informació**: [NE](SI/NE) - [ADEI](SI/ADEI) - [DSI](SI/DSI) - [ER](SI/ER) - [PSI](SI/PSI) - [SIO](SI/SIO)
+- **Hardware**: [AC2](Hardware/AC2) - [DSBM](Hardware/DBSM) - [MP](Hardware/MP) - [PEC](Hardware/PEC) - [SO2](Hardware/SO2) - [XC2](Hardware/XC2)
 
 ### Optatives
 
-[TGA](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Optatives/TGA) - [VJ](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Optatives/VJ) - [VC](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Optatives/VC) - [CCQ](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Optatives/CCQ) - [ASMI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Optatives/ASMI) - [SLDS](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Optatives/SLDS) - [MI](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Optatives/MI) etc.
+[TGA](Optatives/TGA) - [VJ](Optatives/VJ) - [VC](Optatives/VC) - [CCQ](Optatives/CCQ) - [ASMI](Optatives/ASMI) - [SLDS](Optatives/SLDS) - [MI](Optatives/MI) etc.
 
 ## Calcular notes
 
