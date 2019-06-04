@@ -16,3 +16,4 @@
 
 ## Examens
 - [Examens](Examens/)
+- [Examens Finals Resolts](https://github.com/hialvaro/IDI-FIB/tree/master/Examens/FinalsResolts)
