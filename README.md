@@ -7,15 +7,15 @@
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/RepoFIBtori/RepoFIBtori.svg)](https://github.com/RepoFIBtori/RepoFIBtori)
 [![GitHub contributors](https://img.shields.io/github/contributors/RepoFIBtori/RepoFIBtori.svg)](https://GitHub.com/RepoFIBtori/RepoFIBtori/graphs/contributors/)
 
-Benvingut a la llibreria d'apunts d'estudiants amateur del grau d'Enginyeria Informàtica de la FIB. 🧐 Aquí trobaràs una quantitat indecent de: `apunts`, `pràctiques`, `exàmens`, `exercicis` i `enllaços a repositoris/pàgines`. 
+Benvingut a la llibreria d'apunts actualitzats d'estudiants amateur del grau d'Enginyeria Informàtica de la FIB. 🧐 Aquí trobaràs una quantitat indecent de: `apunts`, `pràctiques`, `exàmens`, `exercicis` i `enllaços a repositoris/pàgines`. 
 
-## Contribuir
+## 🗳 Contribuir
 Volem que participis! Quants més estudiants ens involucrem més ens en beneficiarem! 
-Per participar, només cal fer un pull-request amb el que vulguis compartir. Si tens pensat en ser més actiu uneixte a l'organització, acceptem a tothom 
+Per participar, només cal fer un pull-request amb el que vulguis compartir. Si tens pensat en ser més actiu uneixte a l'organització, acceptem a tothom!
 
-Si et decideixes a contribuir, llegeix aquesta guia 📖[CONTRIBUTING.md](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/CONTRIBUTING.md) plis. 😇
+Si et decideixes a contribuir, llegeix aquesta guia 📖[CONTRIBUTING.md](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/CONTRIBUTING.md) <small>plis</small>. 😇
 
-## Assignatures
+## 🎓 Assignatures
 
 ### Obligatòries
   - **Q1**: [PRO1](Obligatories/Q1/PRO1) -  [IC](Obligatories/Q1/IC) -  [FM](Obligatories/Q1/FM) -  [F](Obligatories/Q1/F)
@@ -34,13 +34,23 @@ Si et decideixes a contribuir, llegeix aquesta guia 📖[CONTRIBUTING.md](https:
 
 ### Optatives
 
-[TGA](Optatives/TGA) - [VJ](Optatives/VJ) - [VC](Optatives/VC) - [CCQ](Optatives/CCQ) - [ASMI](Optatives/ASMI) - [SLDS](Optatives/SLDS) - [MI](Optatives/MI) etc.
+[TGA](Optatives/TGA) - [VJ](Optatives/VJ) - [VC](Optatives/VC) - [CCQ](Optatives/CCQ) - [ASMI](Optatives/ASMI) - [SLDS](Optatives/SLDS) - [MI](Optatives/MI) - [GCS](Optatives/GCS) etc.
 
-## Calcular notes
+## 🎨 Recursos
 
-Si necessites calcular la teva nota o vols saber el que et queda per aprovar et recomanem aquesta web app feta per estudiants de la FIB: 💯 [GradeCalc](https://gradecalc.net/)
+### Calcular notes
 
-## Altres pàgines d'apunts importants
+Si necessites calcular la teva nota o vols saber el que et queda per aprovar et recomanem aquesta web app feta per estudiants de la FIB:
+
+💯 [GradeCalc](https://gradecalc.net/)
+
+### Escollir Assignatures
+
+Hi ha una taula en la que els estudiants anem valorant les assignatures. Participa-hi també!
+
+ℹ [Taula de les assignatures](/subjects_overview.md)
+
+## 📋 Altres pàgines d'apunts importants
 
 - [Fibernalia](http://fibernalia.blogspot.com/) - [Mirror](http://web.archive.org/web/fibernalia.blogspot.com)
 - [Repo Fibernalia](https://github.com/Fibernalia?tab=repositories)
