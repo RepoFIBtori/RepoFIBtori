@@ -1,3 +1,5 @@
 # PES - Projectes d'Enginyeria del Software
-- [Exemple de projecte 1 - BlunchDev](https://github.com/BlunchDev/blunch_android)
-- [Exemple de projecte (Q1 2017/2018) - Agora](https://github.com/carlotacb/Agora)
+
+- [PetWorld (Q2 2018/2019)](https://github.com/socialworldpes) - Nota: 9.29
+- [Agora (Q1 2017/2018)](https://github.com/carlotacb/Agora)
+- [BlunchDev](https://github.com/BlunchDev/blunch_android)
