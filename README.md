@@ -44,11 +44,6 @@ Si necessites calcular la teva nota o vols saber el que et queda per aprovar et 
 
 💯 [GradeCalc](https://gradecalc.net/)
 
-### Escollir Assignatures
-
-Hi ha una taula en la que els estudiants anem valorant les assignatures. Participa-hi també!
-
-ℹ [Taula de les assignatures](/subjects_overview.md)
 
 ## 📋 Altres pàgines d'apunts importants
 
@@ -57,8 +52,3 @@ Hi ha una taula en la que els estudiants anem valorant les assignatures. Partici
 - [Fibers](https://fibers.cat/) - [Mirror](http://web.archive.org/web/fibers.cat/)
 - [Pastebin](https://pastebin.com/)
 
-### Pàgines desactualitzades 
-
-No valen gaire la pena, pero potser trobeu algo útil.
-
-- [oscargp.com](http://www.oscargp.com/2008/02/apuntes-de-ingenieria-informatica-fib-upc.html)
