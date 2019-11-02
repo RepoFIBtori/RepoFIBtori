@@ -1,16 +1,15 @@
 <div align="center">
   <img alt="RepoFIBtori logo" src="RepoFIBtori.png" width="400px" />
-
-  **Apunts d'Enginyeria Informàtica | FIB UPC**
-
-  [![HitCount](http://hits.dwyl.io/RepoFIBtori/RepoFIBtori.svg)](http://hits.dwyl.io/RepoFIBtori/RepoFIBtori)
-  [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/RepoFIBtori/RepoFIBtori)
-  [![GitHub stars](https://img.shields.io/github/stars/RepoFIBtori/RepoFIBtori.svg)](https://GitHub.com/RepoFIBtori/RepoFIBtori/stargazers/)
-  [![GitHub forks](https://img.shields.io/github/forks/RepoFIBtori/RepoFIBtori.svg)](https://GitHub.com/RepoFIBtori/RepoFIBtori/network/)
-  [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/RepoFIBtori/RepoFIBtori.svg)](https://github.com/RepoFIBtori/RepoFIBtori)
-  [![GitHub contributors](https://img.shields.io/github/contributors/RepoFIBtori/RepoFIBtori.svg)](https://GitHub.com/RepoFIBtori/RepoFIBtori/graphs/contributors/)
-
 </div>
+
+**Apunts d'Enginyeria Informàtica | FIB UPC**
+
+[![HitCount](http://hits.dwyl.io/RepoFIBtori/RepoFIBtori.svg)](http://hits.dwyl.io/RepoFIBtori/RepoFIBtori)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/RepoFIBtori/RepoFIBtori)
+[![GitHub stars](https://img.shields.io/github/stars/RepoFIBtori/RepoFIBtori.svg)](https://GitHub.com/RepoFIBtori/RepoFIBtori/stargazers/)
+[![GitHub forks](https://img.shields.io/github/forks/RepoFIBtori/RepoFIBtori.svg)](https://GitHub.com/RepoFIBtori/RepoFIBtori/network/)
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/RepoFIBtori/RepoFIBtori.svg)](https://github.com/RepoFIBtori/RepoFIBtori)
+[![GitHub contributors](https://img.shields.io/github/contributors/RepoFIBtori/RepoFIBtori.svg)](https://GitHub.com/RepoFIBtori/RepoFIBtori/graphs/contributors/)
 
 **Benvingut a la llibreria d'apunts actualitzats d'estudiants amateur del grau d'Enginyeria Informàtica de la FIB. 🧐 Aquí trobaràs una quantitat indecent de: `apunts`, `pràctiques`, `exàmens`, `exercicis` i `enllaços a repositoris/pàgines`.**
 
