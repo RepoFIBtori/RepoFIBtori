@@ -2,13 +2,16 @@
 # AC - FIB
 
 ### Material para el laboratorio:
-* [Prácticas y demás](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q4/AC/Practicas)
+
+* [Prácticas y demás](Practicas)
 
 ### Documentación interesante para los exámenes:
-* [Exámenes Resueltos](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Obligatories/Q4/AC/Examens)
+
+* [Exámenes Resueltos](Examens)
 
 * A continuación hay un curso de AC con la teoria de los temas más importantes, para la gente que nunca va a clase o para repasar y aclarar conceptos, está en inglés pero está muy bien explicado. [Fuente](https://test.scalable-learning.com/) (entra el código: __YRLRX-25436__ para entrar en este curso) <br>
 > Son enlaces ocultos por lo que sólo los podrás acceder des de los links:
+
 ##### Memória Caché 1
 
 [1. Memory Hierachy](https://www.youtube.com/embed/PcwSAWOjRUA?modestbranding=0&showinfo=0&rel=0&autohide=0&playsinline=1&controls=0&theme=light&end=558&vq=hd720&iv_load_policy=3&origin=https%3A%2F%2Ftest.scalable-learning.com&wmode=opaque&enablejsapi=1&widgetid=5) - Jerarquia de memória <br>
@@ -28,9 +31,11 @@
 [5. Caché summary](https://www.youtube.com/embed/oGinW9krVSY?modestbranding=0&showinfo=0&rel=0&autohide=0&playsinline=1&controls=0&theme=light&end=203&vq=hd720&iv_load_policy=3&origin=https%3A%2F%2Ftest.scalable-learning.com&wmode=opaque&enablejsapi=1&widgetid=9) - Resumen de caché <br>
 
 ##### Memória Virtual - Lista de reproducción
-[- ¿Qué és y cómo funciona la Memória Virtual?](https://www.youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX). <br>
+
+- [¿Qué és y cómo funciona la Memória Virtual?](https://www.youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX). <br>
 
 ##### RAIDS - Teoría rápida
+
 [1. RAID 0, RAID 1 Y RAID 10](https://www.youtube.com/watch?v=eE7Bfw9lFfs) - Vídeo corto en inglés <br>
 [2. ¿Qué es RAID? Los niveles de RAID](https://tecnologia-informatica.com/que-es-raid-los-niveles-de-raid) <br>
 [2. Wikipedia RAID](https://es.wikipedia.org/wiki/RAID) - Español <br>

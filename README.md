@@ -1,13 +1,18 @@
-# Apunts d'Enginyeria Informàtica | FIB UPC
+<div align="center">
+  <img alt="RepoFIBtori logo" src="RepoFIBtori.png" width="400px" />
 
-[![HitCount](http://hits.dwyl.io/RepoFIBtori/RepoFIBtori.svg)](http://hits.dwyl.io/RepoFIBtori/RepoFIBtori)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/RepoFIBtori/RepoFIBtori)
-[![GitHub stars](https://img.shields.io/github/stars/RepoFIBtori/RepoFIBtori.svg)](https://GitHub.com/RepoFIBtori/RepoFIBtori/stargazers/)
-[![GitHub forks](https://img.shields.io/github/forks/RepoFIBtori/RepoFIBtori.svg)](https://GitHub.com/RepoFIBtori/RepoFIBtori/network/)
-[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/RepoFIBtori/RepoFIBtori.svg)](https://github.com/RepoFIBtori/RepoFIBtori)
-[![GitHub contributors](https://img.shields.io/github/contributors/RepoFIBtori/RepoFIBtori.svg)](https://GitHub.com/RepoFIBtori/RepoFIBtori/graphs/contributors/)
+  **Apunts d'Enginyeria Informàtica | FIB UPC**
 
-Benvingut a la llibreria d'apunts actualitzats d'estudiants amateur del grau d'Enginyeria Informàtica de la FIB. 🧐 Aquí trobaràs una quantitat indecent de: `apunts`, `pràctiques`, `exàmens`, `exercicis` i `enllaços a repositoris/pàgines`. 
+  [![HitCount](http://hits.dwyl.io/RepoFIBtori/RepoFIBtori.svg)](http://hits.dwyl.io/RepoFIBtori/RepoFIBtori)
+  [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/RepoFIBtori/RepoFIBtori)
+  [![GitHub stars](https://img.shields.io/github/stars/RepoFIBtori/RepoFIBtori.svg)](https://GitHub.com/RepoFIBtori/RepoFIBtori/stargazers/)
+  [![GitHub forks](https://img.shields.io/github/forks/RepoFIBtori/RepoFIBtori.svg)](https://GitHub.com/RepoFIBtori/RepoFIBtori/network/)
+  [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/RepoFIBtori/RepoFIBtori.svg)](https://github.com/RepoFIBtori/RepoFIBtori)
+  [![GitHub contributors](https://img.shields.io/github/contributors/RepoFIBtori/RepoFIBtori.svg)](https://GitHub.com/RepoFIBtori/RepoFIBtori/graphs/contributors/)
+
+</div>
+
+**Benvingut a la llibreria d'apunts actualitzats d'estudiants amateur del grau d'Enginyeria Informàtica de la FIB. 🧐 Aquí trobaràs una quantitat indecent de: `apunts`, `pràctiques`, `exàmens`, `exercicis` i `enllaços a repositoris/pàgines`.**
 
 ## 🗳 Contribuir
 Volem que participis! Quants més estudiants ens involucrem més ens en beneficiarem! 
@@ -51,4 +56,3 @@ Si necessites calcular la teva nota o vols saber el que et queda per aprovar et 
 - [Repo Fibernalia](https://github.com/Fibernalia?tab=repositories)
 - [Fibers](https://fibers.cat/) - [Mirror](http://web.archive.org/web/fibers.cat/)
 - [Pastebin](https://pastebin.com/)
-- [MrRobb](https://github.com/MrRobb)
