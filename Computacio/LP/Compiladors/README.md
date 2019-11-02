@@ -2,4 +2,3 @@
 
 - [Nil Vilas](https://github.com/NIL6NIL6/LP-Compiladors/tree/master/Practica)
 - [Xavier Lacasa](https://github.com/xlacasa/practicaCompiladors)
-
