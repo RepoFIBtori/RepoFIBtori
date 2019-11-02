@@ -1,6 +1,7 @@
-
 # Exercicis de Python
+
 ### Funcions amb llistes
+
 - Nombre d'elements diferents d'una llista
 ```python
 def elements_diferents(llista):
@@ -66,6 +67,7 @@ def primeDivisors(n):
         divisorsPrimers = [x for x in divisors if isPrime(x)]
         return divisorsPrimers
 ```
+
 ### Funcions d'ordre superior
 - Producte d'una llista
 ```python
@@ -121,8 +123,6 @@ def factors(n):
 def zipWith(f,l,r):
     return [f(a,b) for (a,b) in zip(l,r) ] 
 ```
-
-
 
 # Lab 2
 - Problemes de classes
@@ -230,4 +230,3 @@ elif int(y)==1 :
             print("A la parada", html.unescape(i), "hi ha ", stations[i]," bicis disponibles." )
 
 ```
-       

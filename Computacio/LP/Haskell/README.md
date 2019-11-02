@@ -3,8 +3,6 @@
 ## 2019-20 Q1
 - [Víctor Sánchez](https://github.com/sanchyy/LP-FIB/tree/master/haskell)
 
-
-
 # Pràctiques
 
 ## 2018-2019 Q1
