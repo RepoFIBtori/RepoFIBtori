@@ -30,7 +30,7 @@ Si et decideixes a contribuir, llegeix aquesta guia 📖[CONTRIBUTING.md](https:
 
 ### Especialitat
 
-- **Computació**: [IA](Computacio/IA) - [A](/Computacio/A) - [TC](Computacio/TC) - [G](Computacio/G) - [LP](Computacio/LP) - [LI](Computacio/LI)
+- **Computació**: [IA](Computacio/IA) - [A](/Computacio/A) - [TC](Computacio/TC) - [G](Computacio/G) - [LP](Computacio/LP) - [LI](Computacio/LI) - [CAIM](Computacio/CAIM)
 - **Software**: [PES](Software/PES) - [GPS](Software/GPS) - [AS](Software/AS) - [ASW](Software/ASW) - [DBD](Software/DBD) - [ER](Software/ER) - [CBDE](Software/CBDE) - [ECSDI](Software/ECSDI) - [CAP](Software/CAP) - [CSI](Software/CSI)
 - **Tecnologies de la Informació**: [SI](TI/SI) - [ASO](TI/ASO) - [PI](TI/PI) - [PTI](TI/PTI) - [SOA](TI/SOA) - [TXC](TI/TXC)
 - **Sistemes de la Informació**: [NE](SI/NE) - [ADEI](SI/ADEI) - [DSI](SI/DSI) - [ER](SI/ER) - [PSI](SI/PSI) - [SIO](SI/SIO)
