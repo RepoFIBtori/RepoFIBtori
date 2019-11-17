@@ -35,3 +35,6 @@ Vídeos en anglès del MIT explicant programació dinàmica i max flow. 100% Rec
 ### 2018-2019 Q1 
 
 - [Pràctica A](https://github.com/adriacabeza/Document-similarity-detection-using-hashing): Fet per Carlos Bergillos, Antoni Rambla i Adrià Cabeza
+
+### 2016-2017 Q1
+- [Pràctica A](https://github.com/anamestre/FIB-A-DocSim): Feta per Ana Mestre, Gorka Piñol i Hermes Valenciano
