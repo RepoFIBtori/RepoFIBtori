@@ -31,7 +31,7 @@ Si ja hi ha un valor, i es diferent del que tens pensat, valora si cal canviar-l
 |CBDE  |Conceptes per a Bases de Dades Especualitzades                 |     0|    |     |     |3,5|    94|       6,3|ESC|-    |      1|
 |CCQ   |Computacio i Criptografia Quantiques                           |     0|    |     |     |4,4|   100|       7,1|-  |-    |      1|
 |CDI   |Compresisio de dades i imatges                                 |     0|   3|    2|    4|4,3|   100|       7,9|-  |-    |      2|
-|CL    |Compiladors                                                    |     0|    |     |     |  4|    80|       6,5|CC |-    |      2|
+|CL    |Compiladors                                                    |     0|   3|    3|    3|  4|    80|       6,5|CC |-    |      2|
 |CN    |Computació Numerica                                            |     0|    |     |     |  4|    95|       7,5|CC |-    |      2|
 |CPD   |Centre de Processament de Dades                                |     0|   5|    4|    5|  4|   100|       8,5|ECC|TIC  |      1|
 |CSI   |Conceptes de Sistemes d’informacio                             |     0|   3|    3|    3|3,8|   100|       6,5|ESC|-    |      1|
@@ -69,7 +69,7 @@ Si ja hi ha un valor, i es diferent del que tens pensat, valora si cal canviar-l
 |ROB   |Robotica                                                       |     0|   3|    5|    4|3,2|    92|       6,5|-  |-    |    1,2|
 |SDX   |Sistemes distribuits en Xarxa                                  |     0|   3|    2|    3|3,7|    86|       6,2|TIC|-    |      2|
 |SI    |Seguretat Informatica                                          |     0|   5|    1|    4|4,2|    95|         7|TI |-    |    1,2|
-|SID   |Sistemes Intel·ligents Distribuits                             |     0|    |     |     |3,3|      |          |CC |-    |      2|
+|SID   |Sistemes Intel·ligents Distribuits                             |     0|   0|    2|    4|3,3|   100|          |CC |-    |      2|
 |SIM   |Simulacio                                                      |     0|   2|    4|    4|3,2|    94|       6,7|ESC|-    |      2|
 |SIO   |Sistemes d’Informació per a Les Organitzacions                 |     0|   3|    3|    5|4,3|   100|         8|SI |-    |    1,2|
 |SLDS  |Software Lliure i Desenvolupament Social                       |     0|   4|    1|    5|  4|    90|       7,4|-  |-    |      2|
