@@ -1,0 +1,1 @@
+# PREGUNTAS TIPO 2
