@@ -15,7 +15,7 @@ RIRs. Las entidades que  quieren recibir un número de sistema autónomo deben l
 
 **Pr2.** *A partir de la figura siguiente, explica la arquitectura de Internet y los distintos elementos que participan en dicha arquitectura, así como, el modelo general de negocio de dicha arquitectura.*
 
-![](/home/wire/Documentos/Universitat/19QT/PI/imagesQuestions/pr2.png)
+![](/img/pr2.png)
 
 Los **ISP** dan servicio a los **clientes finales**
 Los **ISP** intercambian rutas a través de relaciones de **peering**. - Protocolo B6Pv4
