@@ -1,4 +1,4 @@
-# Preguntes Exàmen PI
+# Preguntas Tipo 1
 
 ## 1. Internet Architecture & Addressing
 
