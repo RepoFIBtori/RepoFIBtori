@@ -69,5 +69,3 @@ Un Sistema Autónomo (AS) es un grupo de redes IP con una política de rutas pro
 Inter-domain (between domains) es qualquier tipo de protocolo de routing que se ha establecido entre dos redes diferentes, por lo que permetiría comunicarse entre diferenes AS considerando que internet consiste en una colección de AS interconectados; el principal protocolo utilizado es BGP. Un intra-domain reside dentro el propio AS, ignora el internet de fuera el AS; Protocolos como RIP o OSPF.
 
 Pr9. En una relación BGP, ¿Qué rutas anuncia un ISP cliente a su  proveedor?, ¿Y el proveedor a su cliente? ¿Y de par a par de transito? ¿Y de par a par de no-transito?
-
-
