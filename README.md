@@ -48,6 +48,9 @@ Si necessites calcular la teva nota o vols saber el que et queda per aprovar et 
 
 💯 [GradeCalc](https://gradecalc.net/)
 
+## 📊 Valoracións de les assignatures
+- [Subjects Overview](subjects_overview.md)
+
 
 ## 📋 Altres pàgines d'apunts importants
 
