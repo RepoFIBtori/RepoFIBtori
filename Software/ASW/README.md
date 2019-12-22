@@ -16,6 +16,10 @@
 
 ## Projecte
 
+### Django
+
+- [Projecte Django - Marti, Aina, Guille i Andreu](https://github.com/atsuky/ASW-Issue-Tracker)
+
 ### Ruby on Rails
 
 - [Projecte Ruby on Rails - Albert Suàrez](https://github.com/AlbertSuarez/Practica-ASW)
@@ -29,6 +33,7 @@
 ### Vue.js
 
 - [Projecte Vue.js - Carlota Catot](https://github.com/carlotacb/IssueTracker_FrontEnd)
+- [Projecte Vue.js - Marti, Aina, Guille i Andreu](https://github.com/martiramon/asw-issue-tracker-gui)
 
 ## Presentacions
 
