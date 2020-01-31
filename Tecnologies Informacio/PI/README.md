@@ -11,6 +11,11 @@ Preguntas Tipo:
 
 ---
 
+Laboratori
+* [Quadern](<PI Lab.pdf>)
+
+---
+
 Enllaços d'interès:
 
 * [Curs Complet amb molts continguts de PI](https://www.aulaclic.es/redes)
