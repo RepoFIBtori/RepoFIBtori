@@ -17,7 +17,7 @@
 Volem que participis! Quants més estudiants ens involucrem més ens en beneficiarem! 
 Per participar, només cal fer un pull-request amb el que vulguis compartir. Si tens pensat en ser més actiu uneixte a l'organització, acceptem a tothom!
 
-Si et decideixes a contribuir, llegeix aquesta guia 📖[CONTRIBUTING.md](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/CONTRIBUTING.md) <small>plis</small>. 😇
+Si et decideixes a contribuir, llegeix aquesta guia 📖[.github/CONTRIBUTING.md](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/CONTRIBUTING.md) <small>plis</small>. 😇
 
 ## 🎓 Assignatures
 
