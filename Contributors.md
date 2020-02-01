@@ -18,5 +18,6 @@
 - **Xavier Martin** - [GitHub](https://github.com/xmartin46)
 - **Albert Teira** - [GitHub](https://github.com/alteos98)
 - **Pol Mesegué** - [GitHub](https://github.com/PolMesegue)
+- **Sergi Miralles** - [GitHub](https://github.com/sergimn)
 
 Mira també el [registre contribucions](https://github.com/RepoFIBtori/RepoFIBtori/graphs/contributors) per a conèixer a tots els participants.

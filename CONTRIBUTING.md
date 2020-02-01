@@ -9,3 +9,5 @@
 - Si veus que no hi ha disponible l'enunciat del treball que vas a penjar, siusplau penja'l. 
 
 - És preferible penjar un link al teu treball i no penjar-lo directament. Així el repositori no s'emplena tant ràpid i queda tot més ordenat.
+
+- Recorda posar la nota dels recursos evaluables que penjis.

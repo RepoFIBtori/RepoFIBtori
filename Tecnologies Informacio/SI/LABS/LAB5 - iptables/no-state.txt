@@ -1,0 +1,15 @@
+iptables -F
+iptables -L
+iptables -I INPUT 1 -p udp -j ACCEPT
+iptables -I OUTPUT 1 -p udp -j ACCEPT
+
+iptables -P OUTPUT DROP
+iptables -A OUTPUT -d <ip_upc_here> -j ACCEPT
+iptables -A OUTPUT -d <www.example.com> -j ACCEPT
+
+iptables -I OUTPUT -d www.example.com -m state --state NEW -j LOG --log-prefix "New Connection: "
+iptables -P INPUT DROP
+iptables -A INPUT -s <ip_upc_here> -j ACCEPT
+iptables -A INPUT -s www.example.com -j ACCEPT
+
+iptables -L
