@@ -48,6 +48,13 @@ Si necessites calcular la teva nota o vols saber el que et queda per aprovar et 
 
 💯 [GradeCalc](https://gradecalc.net/)
 
+### Estadístiques
+
+#### 2019-20 Q1
+
+- [Estadístiques assignatures](2019-20Q1_stats.pdf)
+- [Top assignatures aprovades](2019-20Q1_passed.pdf)
+- [Top notes](2019-20Q1_marks.pdf)
 
 ## 📋 Altres pàgines d'apunts importants
 
