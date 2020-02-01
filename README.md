@@ -30,9 +30,9 @@ Si et decideixes a contribuir, llegeix aquesta guia 📖[CONTRIBUTING.md](https:
 
 ### Especialitat
 
-- **Computació**: [IA](Computacio/IA) - [A](/Computacio/A) - [TC](Computacio/TC) - [G](Computacio/G) - [LP](Computacio/LP) - [LI](Computacio/LI)
+- **Computació**: [IA](Computacio/IA) - [A](/Computacio/A) - [TC](Computacio/TC) - [G](Computacio/G) - [LP](Computacio/LP) - [LI](Computacio/LI) - [CAIM](Computacio/CAIM)
 - **Software**: [PES](Software/PES) - [GPS](Software/GPS) - [AS](Software/AS) - [ASW](Software/ASW) - [DBD](Software/DBD) - [ER](Software/ER) - [CBDE](Software/CBDE) - [ECSDI](Software/ECSDI) - [CAP](Software/CAP) - [CSI](Software/CSI)
-- **Tecnologies de la Informació**: [SI](TI/SI) - [ASO](TI/ASO) - [PI](TI/PI) - [PTI](TI/PTI) - [SOA](TI/SOA) - [TXC](TI/TXC)
+- **Tecnologies de la Informació**: [SI](Tecnologies%20Informacio/SI) - [ASO](Tecnologies%20Informacio/ASO) - [PI](Tecnologies%20Informacio/PI) - [PTI](Tecnologies%20Informacio/PTI) - [SOA](Tecnologies%20Informacio/SOA) - [TXC](Tecnologies%20Informacio/TXC)
 - **Sistemes de la Informació**: [NE](SI/NE) - [ADEI](SI/ADEI) - [DSI](SI/DSI) - [ER](SI/ER) - [PSI](SI/PSI) - [SIO](SI/SIO)
 - **Hardware**: [AC2](Hardware/AC2) - [DSBM](Hardware/DBSM) - [MP](Hardware/MP) - [PEC](Hardware/PEC) - [SO2](Hardware/SO2) - [XC2](Hardware/XC2)
 
@@ -55,6 +55,9 @@ Si necessites calcular la teva nota o vols saber el que et queda per aprovar et 
 - [Estadístiques assignatures](2019-20Q1_stats.pdf)
 - [Top assignatures aprovades](2019-20Q1_passed.pdf)
 - [Top notes](2019-20Q1_marks.pdf)
+
+## 📊 Valoracións de les assignatures
+- [Subjects Overview](subjects_overview.md)
 
 ## 📋 Altres pàgines d'apunts importants
 

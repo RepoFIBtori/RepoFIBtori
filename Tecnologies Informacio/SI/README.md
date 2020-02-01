@@ -1,3 +1,1 @@
 # SI - Seguretat Informàtica
-
-TODO
