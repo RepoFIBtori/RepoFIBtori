@@ -9,7 +9,7 @@
 
 **Benvingut a la llibreria d'apunts actualitzats d'estudiants amateur del grau d'Enginyeria Informàtica de la FIB. 🧐 Aquí trobaràs una quantitat indecent de: `apunts`, `pràctiques`, `exàmens`, `exercicis` i `enllaços a repositoris/pàgines`.**
 
-<img alt="RepoFIBtori logo" src="RepoFIBtori.png" width="300px" style="margin:auto" />
+<div align="center"><img alt="RepoFIBtori logo" src="RepoFIBtori.png" width="300px"/></div>
 
 ## 🗳 Contribuir
 Volem que participis! Quants més estudiants ens involucrem més ens en beneficiarem! 
