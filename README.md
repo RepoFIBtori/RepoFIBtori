@@ -1,8 +1,4 @@
-<div align="center">
-  <img alt="RepoFIBtori logo" src="RepoFIBtori.png" width="400px" />
-</div>
-
-**Apunts d'Enginyeria Informàtica - FIB UPC**
+# Apunts d'Enginyeria Informàtica - FIB UPC
 
 [![HitCount](http://hits.dwyl.io/RepoFIBtori/RepoFIBtori.svg)](http://hits.dwyl.io/RepoFIBtori/RepoFIBtori)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/RepoFIBtori/RepoFIBtori)
@@ -12,6 +8,8 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/RepoFIBtori/RepoFIBtori.svg)](https://GitHub.com/RepoFIBtori/RepoFIBtori/graphs/contributors/)
 
 **Benvingut a la llibreria d'apunts actualitzats d'estudiants amateur del grau d'Enginyeria Informàtica de la FIB. 🧐 Aquí trobaràs una quantitat indecent de: `apunts`, `pràctiques`, `exàmens`, `exercicis` i `enllaços a repositoris/pàgines`.**
+
+<img alt="RepoFIBtori logo" src="RepoFIBtori.png" width="300px" style="margin:auto" />
 
 ## 🗳 Contribuir
 Volem que participis! Quants més estudiants ens involucrem més ens en beneficiarem! 
