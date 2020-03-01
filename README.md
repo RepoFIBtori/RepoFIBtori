@@ -46,7 +46,7 @@ Si et decideixes a contribuir, llegeix aquesta guia 📖[CONTRIBUTING.md](.githu
 
 Si necessites calcular la teva nota o vols saber el que et queda per aprovar et recomanem aquesta web app feta per estudiants de la FIB:
 
-💯 [GradeCalc](https://gradecalc.net/)
+💯 [GradeCalc](https://gradecalc.app/)
 
 ### Estadístiques
 
