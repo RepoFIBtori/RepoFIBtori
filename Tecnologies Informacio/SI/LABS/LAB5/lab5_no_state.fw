@@ -1,0 +1,58 @@
+#!/bin/bash
+
+# 0. First, flush the iptables rules:
+iptables -F
+
+# 1. Show the active iptables rules
+iptables -L
+
+# 2. Change the default policy of the OUTPUT chain to DROP
+iptables -P OUTPUT DROP
+
+# 3. Create a rule for accessing the web ’www.upc.edu’. 
+#      Note that, you need the DNS service 
+#      (see /etc/resolv.conf) to find the corresponding IP address.
+
+# Run "dig www.upc.edu" to get it's ip: 147.83.2.135
+iptables -A INPUT -s 147.83.2.135 -j ACCEPT
+iptables -A OUTPUT -d 147.83.2.135 -j ACCEPT
+
+# 4. Imagine that the child of a friend is becoming a very good hacker because
+#      he visits quite often web pages like ’www.metasploit.com’. Your friend
+#      wants to be permissive with his child but as a good father he wants to
+#      know what the child is doing. Write down a rule to log the connections to
+#      ’www.metasploit.com’
+iptables -I OUTPUT -d www.metasploit.com -j LOG --log-prefix "Connection to metasploit: "
+
+# Or if you cand use domains, use it's ips
+# Run: "dig www.metasploit.com"
+# iptables -I OUTPUT -d 13.33.235.51  -j LOG --log-prefix "Connection to metasploit: "
+# iptables -I OUTPUT -d 13.33.235.69  -j LOG --log-prefix "Connection to metasploit: "
+# iptables -I OUTPUT -d 13.33.235.6   -j LOG --log-prefix "Connection to metasploit: "
+# iptables -I OUTPUT -d 13.33.235.125 -j LOG --log-prefix "Connection to metasploit: "
+
+
+# If you use default policy of the OUTPUT to DROP this wont work. 
+# To make it work you need to run the following for each ip
+# iptables -A INPUT -s <ip-here> -j ACCEPT
+# iptables -A OUTPUT -d <ip-here> -j ACCEPT 
+
+# 5. Now, change all the default policies to DROP. 
+#      Can you access to the previous web sites 
+#      (www.upc.edu and www.metasploit.com)? Why?
+iptables -P INPUT DROP
+iptables -P FORWARD DROP
+iptables -P OUTPUT DROP
+
+# You can, because we added exeptions for those websites. 
+# Here we just change the default behaviour.
+
+# 6. Add the corresponding iptables rules to access to the previous sites 
+#      but maintaining the default DROP policy of the INPUT and OUTPUT chains.
+iptables -P INPUT DROP
+iptables -A INPUT -s www.metasploit.com -j ACCEPT
+iptables -A INPUT -s 147.83.2.135 -j ACCEPT
+
+iptables -P OUTPUT DROP
+iptables -A OUTPUT -s www.metasploit.com -j ACCEPT
+iptables -A OUTPUT -s 147.83.2.135 -j ACCEPT
