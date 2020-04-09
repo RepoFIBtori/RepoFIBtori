@@ -1,0 +1,35 @@
+# Repeat the previous firewall configuration taking into account that iptables is
+#   able to filter packets considering their session state. In this way it is possible
+#   to secure even more our communications. Remember that the firewall has to
+#   be configured in the following way:
+iptables -F
+
+#   - Default chain policies: DROP
+iptables -P INPUT DROP
+iptables -P FORWARD DROP
+iptables -P OUTPUT DROP
+
+#   - Allow to resolve DNS requests.
+# DNS uses port 53
+# Open port 53 for udp
+iptables -A INPUT -p udp --sport 53 -j ACCEPT
+iptables -A INPUT -p udp --dport 53 -j ACCEPT
+iptables -A OUTPUT -p udp --sport 53 -j ACCEPT
+iptables -A OUTPUT -p udp --dport 53 -j ACCEPT
+# Open port 53 for tcp
+iptables -A INPUT -p tcp --dport 53 -j ACCEPT
+iptables -A INPUT -p tcp --sport 53 -j ACCEPT
+iptables -A OUTPUT -p tcp --sport 53 -j ACCEPT
+iptables -A OUTPUT -p tcp --dport 53 -j ACCEPT
+
+
+#   - Allow connections to: www.upc.edu and www.metasploit.com
+iptables -A INPUT -s www.metasploit.com -m state --state NEW,ESTABLISHED -j ACCEPT
+iptables -A OUTPUT -d www.metasploit.com -m state --state NEW,ESTABLISHED -j ACCEPT
+iptables -A INPUT -s www.upc.edu -m state --state NEW,ESTABLISHED -j ACCEPT
+iptables -A OUTPUT -d www.upc.edu -m state --state NEW,ESTABLISHED -j ACCEPT
+
+
+
+
+iptables -L
