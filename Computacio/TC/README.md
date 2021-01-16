@@ -6,6 +6,8 @@
 - [Exercicis de Pissarra](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Computacio/TC/Exercicis_pissarra)
 - [Aprobar TC para Dummies](https://github.com/RepoFIBtori/RepoFIBtori/blob/master/Computacio/TC/Aprobar_TC_para_dummies-10.pdf) 
 - [Apuntes by JnxF](https://github.com/JnxF/grau-tc)
+- [Ejercicios de clase Resueltos 1](https://github.com/JazZHermeS/RepoFIBtori/blob/master/Computacio/TC/TC-ejercicios-teoria.pdf)
+- [Ejercicios de clase Resueltos 2](https://github.com/JazZHermeS/RepoFIBtori/blob/master/Computacio/TC/TC-ejercicios-teoria-2.pdf)
 
 ## Llista d'exercicis del RACSO
 
