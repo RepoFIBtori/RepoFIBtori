@@ -1,6 +1,10 @@
 # IA - Intel·ligència Artificial
 
 ## Pràctiques
+### 2020-2021 Q1
+- [Pràctica de Cerca Local](https://github.com/JazZHermeS/IA/tree/main/Busqueda-Local) - by Pau Celma, Jazmin E. Gell & Ramon Zalabardo.
+- [Pràctica Sistemes Basats en el Coneixement](https://github.com/JazZHermeS/IA/tree/main/SBC) - by Pau Celma, Jazmin E. Gell & Ramon Zalabardo.
+- [Pràctica de Planificació](https://github.com/JazZHermeS/IA/blob/main/Planificador-Series-Pelis.pdf) - by Pau Celma, Jazmin E. Gell & Ramon Zalabardo.
 
 ### 2018-2019 Q1 
 
