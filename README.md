@@ -59,7 +59,6 @@ Si necessites calcular la teva nota o vols saber el que et queda per aprovar et 
 
 ## 📋 Altres pàgines d'apunts importants
 
-- [FIBerHub](https://fiberhub.tk/)
 - [Fibernalia](http://fibernalia.blogspot.com/) - [Mirror](http://web.archive.org/web/fibernalia.blogspot.com)
 - [Repo Fibernalia](https://github.com/Fibernalia?tab=repositories)
 - [Fibers](https://fibers.cat/) - [Mirror](http://web.archive.org/web/fibers.cat/)
