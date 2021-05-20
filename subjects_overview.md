@@ -23,7 +23,7 @@ Si ja hi ha un valor, i es diferent del que tens pensat, valora si cal canviar-l
 |ASDP  |Habilats Acadèmiques pel Desenvolupament de Projectes en Anglés|     1|   3|    3|    4|3,9|    98|       6,4|-  |-    |    1,2|
 |ASMI  |Aspectes Socials i Medioambientals de la Informatica           |     0|   3|    2|    5|4,6|    98|       7,6|-  |-    |      2|
 |ASO   |Administració de Sistemes Operatius                            |     0|   5|    2|    4|4,5|    94|         6|TI |-    |    1,2|
-|ASW   |Aplicacions i Serveis Web                                      |     0|    |     |     |4,1|    98|       7,3|ES |-    |    1,2|
+|ASW   |Aplicacions i Serveis Web                                      |     0|   5|    4|    3|4,1|    98|       7,3|ES |-    |    1,2|
 |C     |Criptografia                                                   |     0|   5|    2|    4|4,5|    93|       7,7|-  |-    |      1|
 |CAIM  |Cerca i Analisi d'Informacio Massiva                           |     0|    |     |     |  4|    90|       6,2|CC |SIC  |      1|
 |CAP   |Conceptes Avançats de Programacio                              |     0|    |     |     |4,2|    92|       7,7|ESC|-    |      1|
@@ -59,7 +59,7 @@ Si ja hi ha un valor, i es diferent del que tens pensat, valora si cal canviar-l
 |NE    |Negoci Electronic                                              |     0|    |     |     |  4|   100|         8|SI |-    |    1,2|
 |PAE   |Projecte Aplicat d'Enginyeria                                  |     0|    |     |     |4,1|   100|         9|-  |-    |    1,2|
 |PAP   |Programacio i Arquitectures Paral·leles                        |     0|    |     |     |4,7|    81|       8,4|ECC|-    |      2|
-|PCA   |Programacio Conscient de l'Arquitectura                        |     0|    |     |     |4,6|    94|       8,1|ECC|-    |      2|
+|PCA   |Programacio Conscient de l'Arquitectura                        |     0|   4|    3|    3|4,6|    94|       8,1|ECC|-    |      2|
 |PDS   |Processament Digital del Senyal                                |     0|    |     |     |  3|   100|       7,7|ECC|-    |      1|
 |PEC   |Projecte EC                                                    |     0|    |     |     |  4|    82|       9,2|EC |-    |    1,2|
 |PES   |Projecte ES                                                    |     0|   5|    5|    3|4,2|    94|       8,7|ES |-    |    1,2|
