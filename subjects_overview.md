@@ -66,7 +66,7 @@ Si ja hi ha un valor, i es diferent del que tens pensat, valora si cal canviar-l
 |PI    |Protocols d'Internet                                           |     0|   3|    2|    2|3,8|    71|         5|TI |-    |    1,2|
 |PSI   |Projecte SI                                                    |     0|    |     |     |3,8|   100|       8,9|Si |-    |    1,2|
 |PTI   |Projecte TI                                                    |     0|   5|    5|    5|  4|    98|       7,9|TI |-    |    1,2|
-|ROB   |Robotica                                                       |     0|   3|    5|    4|3,2|    92|       6,5|-  |-    |    1,2|
+|ROB   |Robotica                                                       |     0|   2|    5|    3|3,2|    92|       6,5|-  |-    |    1,2|
 |SDX   |Sistemes distribuits en Xarxa                                  |     0|   3|    2|    3|3,7|    86|       6,2|TIC|-    |      2|
 |SI    |Seguretat Informatica                                          |     0|   5|    1|    4|4,2|    95|         7|TI |-    |    1,2|
 |SID   |Sistemes Intel·ligents Distribuits                             |     0|   0|    2|    4|3,3|   100|          |CC |-    |      2|
