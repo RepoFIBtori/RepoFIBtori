@@ -16,6 +16,14 @@
 
 ## Projecte
 
+### Laravel
+
+- [Hacker News](https://bitbucket.org/pauval99/hacker-news) Client Side & API (Pau Val, Pol Aguilar, Sebas Acurio, Sheila Sánchez)
+
+### React
+
+- [Hacker News](https://bitbucket.org/pauval99/hacker-news-react) Front-End (Pau Val, Pol Aguilar, Sebas Acurio, Sheila Sánchez)
+
 ### Django
 
 - [Projecte Django - Marti, Aina, Guille i Andreu](https://github.com/atsuky/ASW-Issue-Tracker)
