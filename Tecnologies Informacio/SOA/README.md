@@ -1,5 +1,9 @@
 # SOA - Sistemes Operatius Avançats
 
+## 2021-2022 Q1
+
+- [ALVARO MORENO](https://github.com/hialvaro/ZeOS-SOA)
+
 ## 2018-2019 Q2
 
 - [POL MESEGUE](https://github.com/PolMesegue/SOA)
