@@ -2,7 +2,7 @@
 
 ## 2021-2022 Q1
 
-- [ALVARO MORENO](https://github.com/hialvaro/ZeOS-SOA)
+- [ALVARO MORENO](https://github.com/hialvaro/ZeOS-SOA) - Entregues lab, Pràctica lab, exàmen lab, resums teoria...
 
 ## 2018-2019 Q2
 
