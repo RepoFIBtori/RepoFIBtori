@@ -30,7 +30,7 @@ Si et decideixes a contribuir, llegeix aquesta guia 📖[CONTRIBUTING.md](.githu
 
 - **Computació**: [IA](Computacio/IA) - [A](/Computacio/A) - [TC](Computacio/TC) - [G](Computacio/G) - [LP](Computacio/LP) - [LI](Computacio/LI) - [CAIM](Computacio/CAIM)
 - **Software**: [PES](Software/PES) - [GPS](Software/GPS) - [AS](Software/AS) - [ASW](Software/ASW) - [DBD](Software/DBD) - [ER](Software/ER) - [CBDE](Software/CBDE) - [ECSDI](Software/ECSDI) - [CAP](Software/CAP) - [CSI](Software/CSI)
-- **Tecnologies de la Informació**: [SI](Tecnologies%20Informacio/SI) - [ASO](Tecnologies%20Informacio/ASO) - [PI](Tecnologies%20Informacio/PI) - [PTI](Tecnologies%20Informacio/PTI) - [SOA](Tecnologies%20Informacio/SOA) - [TXC](Tecnologies%20Informacio/TXC)
+- **Tecnologies de la Informació**: [SI](Tecnologies%20Informacio/SI) - [ASO](Tecnologies%20Informacio/ASO) - [PI](Tecnologies%20Informacio/PI) - [PTI](Tecnologies%20Informacio/PTI) - [SOA](Tecnologies%20Informacio/SOA) - [TXC](Tecnologies%20Informacio/TXC) - [IM](Tecnologies%20Informacio/IM)
 - **Sistemes de la Informació**: [NE](SI/NE) - [ADEI](SI/ADEI) - [DSI](SI/DSI) - [ER](SI/ER) - [PSI](SI/PSI) - [SIO](SI/SIO)
 - **Hardware**: [AC2](Hardware/AC2) - [DSBM](Hardware/DBSM) - [MP](Hardware/MP) - [PEC](Hardware/PEC) - [SO2](Hardware/SO2) - [XC2](Hardware/XC2)
 
