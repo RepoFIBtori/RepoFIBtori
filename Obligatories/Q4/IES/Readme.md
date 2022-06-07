@@ -1,4 +1,4 @@
 # IES - Introducció a l'Enginyeria del Software
 
-TODO
+- [Exercicis 2021-2022 Q1](https://github.com/andyfratello/IES)
 
