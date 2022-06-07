@@ -2,6 +2,10 @@
 
 ## Projecte
 
+### 2021-2022 Q2 Full de càlcul
+
+- [Full de càlcul](https://github.com/andyfratello/PROP) - (Andreu Orensanz, Joan Aluja, Marc Duch, Marc Clapés)
+
 ### 2019-2020 Q1 Compressor
 
 - [Folder Compressor](https://github.com/PauVal99/Folder-Compressor) - (Pau Val, Pol Aguilar, Sebas Acurio, Bartomeu Perello)
