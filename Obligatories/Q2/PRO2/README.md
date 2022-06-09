@@ -11,3 +11,8 @@
 
 - [Pràctica de Laboratori - Andreu Gallofré](https://github.com/atsuky/Practica-Pro2-Genetica)
 - [Pràctica de Laboratori - Adrià Cabeza](https://github.com/adriacabeza/ProjectPRO2)
+
+
+### 2020-2021 Q1 Gestió d'una terminal de contenidors
+
+- [Pràctica de Laboratori - Andreu Orensanz](https://github.com/andyfratello/PRO2/tree/main/Pr%C3%A0ctica)
