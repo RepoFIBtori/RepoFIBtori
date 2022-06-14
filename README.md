@@ -36,7 +36,7 @@ Si et decideixes a contribuir, llegeix aquesta guia 📖[CONTRIBUTING.md](.githu
 
 ### Optatives
 
-[TGA](Optatives/TGA) - [VJ](Optatives/VJ) - [VC](Optatives/VC) - [CCQ](Optatives/CCQ) - [ASMI](Optatives/ASMI) - [SLDS](Optatives/SLDS) - [MI](Optatives/MI) - [GCS](Optatives/GCS) etc.
+[TGA](Optatives/TGA) - [VJ](Optatives/VJ) - [VC](Optatives/VC) - [CCQ](Optatives/CCQ) - [ASMI](Optatives/ASMI) - [SLDS](Optatives/SLDS) - [MI](Optatives/MI) - [GCS](Optatives/GCS) - [MD](Optatives/MD) - [WSE](Optatives/WSE) etc.
 
 ## 🎨 Recursos
 
