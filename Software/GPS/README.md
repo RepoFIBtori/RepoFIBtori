@@ -5,8 +5,10 @@
 - [Primera part - Albert Suàrez](https://github.com/AlbertSuarez/GPS-Unified-Process)
 - [TFG4Society](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Software/GPS/TFG4Society) - **Nota**: 8.6 - **Autors**: Maurici Abad, George Constantin, Meir Mouyal, Alejandra Volkova
 - [Primera Part - Carlota Catot](https://github.com/carlotacb/GPS-UP)
+- [Primera Part - Andreu Orensanz](https://github.com/andyfratello/GPS/tree/main/UP)
 
 ## Agile
 
 - [Segona part - Albert Suàrez](https://github.com/AlbertSuarez/GPS-Agile-Development)
 - [GymMaster](https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Software/GPS/GymMaster) - **Nota**: 9 - **Autors**: Maurici Abad, George Constantin, Meir Mouyal, Alejandra Volkova
+- [Segona Part - Andreu Orensanz](https://github.com/andyfratello/GPS/tree/main/AGILE)
