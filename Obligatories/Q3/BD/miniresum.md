@@ -1,4 +1,5 @@
-# mini RESUM BASES DE DADES
+
+# Mini Resum BD
 
 ## Procediments emmagatzemats
 
