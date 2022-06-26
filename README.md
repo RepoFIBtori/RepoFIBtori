@@ -1,6 +1,6 @@
 # Apunts d'Enginyeria Informàtica - FIB UPC
 
-[![HitCount](http://hits.dwyl.io/RepoFIBtori/RepoFIBtori.svg)](http://hits.dwyl.io/RepoFIBtori/RepoFIBtori)
+[![HitCount](https://hits.dwyl.com/RepoFIBtori/RepoFIBtori.svg?style=flat-square&show=unique)](http://hits.dwyl.com/RepoFIBtori/RepoFIBtori)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/RepoFIBtori/RepoFIBtori)
 [![GitHub stars](https://img.shields.io/github/stars/RepoFIBtori/RepoFIBtori.svg)](https://GitHub.com/RepoFIBtori/RepoFIBtori/stargazers/)
 [![GitHub forks](https://img.shields.io/github/forks/RepoFIBtori/RepoFIBtori.svg)](https://GitHub.com/RepoFIBtori/RepoFIBtori/network/)
