@@ -19,4 +19,4 @@
 
 ### 2020-2021 Q2 Evaluator
 
-- [Practica de Laboratori - Miquel Torner](https://github.com/miquelt9/Practica-PRO2)
+- [Pràctica de Laboratori - Miquel Torner](https://github.com/miquelt9/Practica-PRO2)
