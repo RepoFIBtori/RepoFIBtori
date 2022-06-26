@@ -3,4 +3,4 @@
 ## Labo
 
 - [Exercicis Laboratori](https://github.com/sanchyy/EC-LAB/tree/master/sessions_laboratori)
-- [Laboratori](https://github.com/miquelt9/EC-FIB)
+- [Laboratori 20-21 Q2](https://github.com/miquelt9/EC-FIB)
