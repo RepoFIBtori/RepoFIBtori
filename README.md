@@ -55,7 +55,7 @@ Si necessites calcular la teva nota o vols saber el que et queda per aprovar et 
 - [Top notes](2019-20Q1_marks.pdf)
 
 ## 📊 Valoracións de les assignatures
-- [Subjects Overview](subjects_overview.md)
+- [Subjects Overview](/subjects_overview.md)
 
 ## 📋 Altres pàgines d'apunts importants
 
