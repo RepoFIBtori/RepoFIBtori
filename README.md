@@ -1,6 +1,6 @@
 # Apunts d'Enginyeria Informàtica - FIB UPC
 
-[![HitCount](http://hits.dwyl.io/RepoFIBtori/RepoFIBtori.svg)](http://hits.dwyl.io/RepoFIBtori/RepoFIBtori)
+[![HitCount](https://hits.dwyl.com/RepoFIBtori/RepoFIBtori.svg?style=flat-square&show=unique)](http://hits.dwyl.com/RepoFIBtori/RepoFIBtori)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/RepoFIBtori/RepoFIBtori)
 [![GitHub stars](https://img.shields.io/github/stars/RepoFIBtori/RepoFIBtori.svg)](https://GitHub.com/RepoFIBtori/RepoFIBtori/stargazers/)
 [![GitHub forks](https://img.shields.io/github/forks/RepoFIBtori/RepoFIBtori.svg)](https://GitHub.com/RepoFIBtori/RepoFIBtori/network/)
@@ -28,7 +28,7 @@ Si et decideixes a contribuir, llegeix aquesta guia 📖[CONTRIBUTING.md](.githu
 
 ### Especialitat
 
-- **Computació**: [IA](Computacio/IA) - [A](/Computacio/A) - [TC](Computacio/TC) - [G](Computacio/G) - [LP](Computacio/LP) - [LI](Computacio/LI) - [CAIM](Computacio/CAIM)
+- **Computació**: [IA](Computacio/IA) - [A](Computacio/A) - [TC](Computacio/TC) - [G](Computacio/G) - [LP](Computacio/LP) - [LI](Computacio/LI) - [CAIM](Computacio/CAIM)
 - **Software**: [PES](Software/PES) - [GPS](Software/GPS) - [AS](Software/AS) - [ASW](Software/ASW) - [DBD](Software/DBD) - [ER](Software/ER) - [CBDE](Software/CBDE) - [ECSDI](Software/ECSDI) - [CAP](Software/CAP) - [CSI](Software/CSI)
 - **Tecnologies de la Informació**: [SI](Tecnologies%20Informacio/SI) - [ASO](Tecnologies%20Informacio/ASO) - [PI](Tecnologies%20Informacio/PI) - [PTI](Tecnologies%20Informacio/PTI) - [SOA](Tecnologies%20Informacio/SOA) - [TXC](Tecnologies%20Informacio/TXC) - [IM](Tecnologies%20Informacio/IM)
 - **Sistemes de la Informació**: [NE](SI/NE) - [ADEI](SI/ADEI) - [DSI](SI/DSI) - [ER](SI/ER) - [PSI](SI/PSI) - [SIO](SI/SIO)
@@ -55,7 +55,7 @@ Si necessites calcular la teva nota o vols saber el que et queda per aprovar et 
 - [Top notes](2019-20Q1_marks.pdf)
 
 ## 📊 Valoracións de les assignatures
-- [Subjects Overview](subjects_overview.md)
+- [Subjects Overview](/subjects_overview.md)
 
 ## 📋 Altres pàgines d'apunts importants
 

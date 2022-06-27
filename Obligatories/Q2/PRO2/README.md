@@ -16,3 +16,7 @@
 ### 2020-2021 Q1 Gestió d'una terminal de contenidors
 
 - [Pràctica de Laboratori - Andreu Orensanz](https://github.com/andyfratello/PRO2/tree/main/Pr%C3%A0ctica)
+
+### 2020-2021 Q2 Evaluator
+
+- [Pràctica de Laboratori - Miquel Torner](https://github.com/miquelt9/Practica-PRO2)

@@ -1,3 +1,3 @@
 # IC - Introducció de computadors
 
-TODO
+- [Github de miquelt9](https://github.com/miquelt9/IC-FIB)

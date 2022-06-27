@@ -13,3 +13,4 @@
 - [StarWar - Carlota Catot](https://github.com/carlotacb/StarWar)
 - [Ants](https://github.com/PauVal99/Ants) - Pau Val
 - [Ants 20-21 Q2](https://github.com/andyfratello/EDA/tree/main/Joc)
+- [Pandemic 21-22 Q1](https://github.com/miquelt9/Joc-EDA)
