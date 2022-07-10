@@ -1,5 +1,8 @@
 # PRO2 - Programació 2
 
+## Jutge
+- [Problemes del jutge - Bernat Borràs](https://github.com/BernatBC/PRO2)
+
 ## Exemples de pràctiques
 
 ### 2014-2015 Q2 Reproducció en el laboratori
