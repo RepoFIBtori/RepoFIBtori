@@ -2,6 +2,7 @@
 
 ## Laboratori
 
+- [Laboratori 2022-2023 Q1](https://github.com/ArnauCS03/IDI-FIB)
 - [Entregues de Lab 2021-2022 Q1](https://github.com/andyfratello/IDI)
 - [Laboratoris OpenGL/Qt](https://github.com/AlbertSuarez/IDI-Labs)
 - [Laboratoris OpenGL/Qt Q2 2017-2018](https://github.com/atsuky/IDI-FIB)
