@@ -16,3 +16,9 @@
 - [Pràctica de Cerca Local](https://github.com/anamestre/FIB-IA-P1-Azamon) - by Ismael Julià, Ana Mestre i Gorka Piñol.
 - [Pràctica Sistemes Basats en el Coneixement](https://github.com/anamestre/FIB-IA-P2-Museu) - by Ismael Julià, Ana Mestre i Gorka Piñol.
 - [Pràctica de Planificació](https://github.com/anamestre/FIB-IA-P3-Redflix) - by Ismael Julià, Ana Mestre i Gorka Piñol.
+
+## Treballs d'innovació
+
+### 2020-2021 Q1
+
+- [Classificació de fotografies a Airbnb](https://gitlab.com/m-canals/gei/-/blob/main/IA/Classificaci%C3%B3%20de%20fotografies%20a%20Airbnb.pdf) - per Daniel Sánchez, José Antonio Terrón i Marc Canals

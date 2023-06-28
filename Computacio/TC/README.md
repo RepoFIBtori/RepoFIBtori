@@ -19,4 +19,8 @@
 - [Reduccions de CFG (CFG)](https://github.com/adriacabeza/TC/blob/master/ReduccionsdeCFG.md)
 - [Exàmens](https://github.com/adriacabeza/TC/blob/master/Examens.md)
 
+## Exercicis
+
+- [Exercicis 1.2, 2.37, 3.25, 5.1U, 7.2B](https://gitlab.com/m-canals/gei/-/blob/main/TC/Exercicis.pdf)
+
 Si algú vol continuar amb **Aprobar TC para Dummies** i afegir-hi nous problemes i exercicis aquí té el link :  https://www.overleaf.com/read/kvxgqkytmkmq (kudos to [@alvarogirona](https://github.com/alvarogirona)).
