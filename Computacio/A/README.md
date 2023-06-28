@@ -30,7 +30,9 @@ Vídeos en anglès del MIT explicant programació dinàmica i max flow. 100% Rec
 - [Dynamic Programming IV](https://www.youtube.com/watch?v=tp4_UXaVyx8)
 - [Max Flow, Min Cut](https://www.youtube.com/watch?v=VYZGlgzr_As)
 
-## Pràctiques
+### 2020-2021 Q2
+
+- [Pràctica A](https://gitlab.com/m-canals/gei/-/blob/main/A/Conjectura%20de%20Mertens.pdf): Fet per Marc Canals i Oriol Duran
 
 ### 2018-2019 Q1 
 
