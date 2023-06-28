@@ -8,6 +8,10 @@
 
 # Pràctiques
 
+## 2020-2021 Q1
+
+- [Marc Canals](https://gitlab.com/m-canals/gei/-/tree/main/LP)
+
 ## 2018-2019 Q1
 
 - [Adrià Cabeza](https://github.com/adriacabeza/LP-Haskell/tree/master/Pr%C3%A0ctica)
