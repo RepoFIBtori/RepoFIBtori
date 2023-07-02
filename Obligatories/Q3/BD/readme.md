@@ -4,3 +4,4 @@
 
 ## Laboratori
 - [Pràctiques](https://github.com/BernatBC/BD)
+- [2018-2019 Q1 - Marc Canals](https://gitlab.com/m-canals/gei/-/tree/main/BD)
