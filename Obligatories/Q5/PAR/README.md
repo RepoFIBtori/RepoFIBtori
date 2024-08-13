@@ -1,6 +1,7 @@
 # PAR - Paral·lelisme
 
 ## Laboratoris
+- [Laboratoris Q2 2022/2023](https://github.com/eZWALT/Parallelism) - Walter Troiani i Marc Tacons
 - [Laboratoris Q1 2021/2022](https://github.com/andyfratello/PAR) - Andreu Orensanz i Daniel Oliveras
 - [Laboratoris Q2 2020/2021](https://github.com/hialvaro/PAR-FIB) - Alvaro Moreno i Albert Escoté
 - [Laboratoris Q1 2019/2020](https://gitlab.com/m-canals/gei/-/tree/main/PAR) - Aleix Pérez i Marc Canals
