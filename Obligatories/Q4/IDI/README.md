@@ -9,6 +9,7 @@
 - [Laboratoris OpenGL/Qt Q1 2016-2017](https://github.com/carlotacb/IDI-Laboratoris)
 - [Exemple de aplicació Android](https://github.com/AlbertSuarez/Remindit)
 - [Exemple 2 d'aplicació Android](https://github.com/carlotacb/LibraryGo)
+- [Laboratoris 2021-22 Q2](https://github.com/eZWALT/Computer-Graphics-and-Interfaces-Design)
 
 ## Teoria
 

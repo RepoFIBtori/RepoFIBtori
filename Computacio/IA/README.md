@@ -1,6 +1,13 @@
 # IA - Intel·ligència Artificial
 
 ## Pràctiques
+
+### 2022-23 Q2 
+- [Pràctica de Cerca Local](https://github.com/eZWALT/Classical-AI/tree/main/assingment1) - by Walter Troiani, Alex Herrero, Lluc Clavera & Pol Forner
+- [Pràctica Sistemes Basats](https://github.com/eZWALT/Classical-AI/tree/main/assingment2) - by Walter Troiani, Alex Herrero, Lluc Clavera & Pol Forner
+- [Pràctica de Planificacio](https://github.com/eZWALT/Classical-AI/tree/main/assingment3) - by Walter Troiani, Alex Herrero, Lluc Clavera & Pol Forner
+
+
 ### 2020-2021 Q1
 - [Pràctica de Cerca Local](https://github.com/JazZHermeS/IA/tree/main/Busqueda-Local) - by Pau Celma, Jazmin E. Gell & Ramon Zalabardo.
 - [Pràctica Sistemes Basats en el Coneixement](https://github.com/JazZHermeS/IA/tree/main/SBC) - by Pau Celma, Jazmin E. Gell & Ramon Zalabardo.

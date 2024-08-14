@@ -1,5 +1,9 @@
 # SOA - Sistemes Operatius Avançats
 
+## 2023-2024 Q2 
+
+- [WALTER TROIANI & ALEX ROS](https://github.com/eZWALT/Advanced-Operating-Systems) 
+
 ## 2021-2022 Q1
 
 - [ALVARO MORENO](https://github.com/hialvaro/ZeOS-SOA) - Entregues lab, Pràctica lab, exàmen lab, resums teoria...

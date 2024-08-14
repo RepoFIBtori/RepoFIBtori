@@ -32,6 +32,10 @@ Vídeos en anglès del MIT explicant programació dinàmica i max flow. 100% Rec
 
 ## Pràctiques
 
+### 2022-23 Q1
+
+- [Pràctica A](https://github.com/eZWALT/Algorithmics): Projecte Supersopa fet per Alex Herrero, Walter Troiani, Lluc Clavera i Pol Forners. Nota: 9.5
+
 ### 2020-2021 Q2
 
 - [Pràctica A](https://gitlab.com/m-canals/gei/-/blob/main/A/Conjectura%20de%20Mertens.pdf): Fet per Marc Canals i Oriol Duran

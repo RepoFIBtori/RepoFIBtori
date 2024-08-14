@@ -1,5 +1,6 @@
 # Llista de Contribuidors 🌟
 
+- **Walter Troiani** - [Github](https://github.com/eZWALT)
 - **Adrià Cabeza** - [GitHub](https://github.com/adriacabeza)
 - **Albert Suàrez** - [GitHub](https://github.com/AlbertSuarez)
 - **Nil Vilas** - [GitHub](https://github.com/NIL6NIL6)
