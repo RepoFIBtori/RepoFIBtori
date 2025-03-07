@@ -2,6 +2,7 @@
 
 ## Jutge
 - [Problemes del jutge - Bernat Borràs](https://github.com/BernatBC/PRO2)
+- [Problemes del Jutge Primavera 2025](https://github.com/MUX-enjoyer/PRO2-FIB-2025)
 
 ## Exemples de pràctiques
 
