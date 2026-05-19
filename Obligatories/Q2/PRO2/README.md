@@ -2,6 +2,7 @@
 
 ## Jutge
 - [Problemes del jutge - Bernat Borràs](https://github.com/BernatBC/PRO2)
+- [Problemes del jutge 2026 - Martin Molina ](https://github.com/martinmol2007/PRO2-Ejercicios)
 
 ## Exemples de pràctiques
 
